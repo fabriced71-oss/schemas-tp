@@ -1,0 +1,232 @@
+{
+ "titre": "Bootcamp Électricité",
+ "sous": "Programme sur 12 semaines – cours et TP d’atelier",
+ "start": "2026-11-09",
+ "weeks": [
+  {
+   "theme": "Sécurité et découverte du métier",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Le risque électrique et ses effets sur le corps humain"
+    },
+    {
+     "type": "Cours",
+     "titre": "Habilitation électrique NF C 18-510 : rôles et zones"
+    },
+    {
+     "type": "Cours",
+     "titre": "Outillage, EPI et organisation du poste"
+    },
+    {
+     "type": "TP",
+     "titre": "Simple allumage"
+    }
+   ]
+  },
+  {
+   "theme": "Bases de l’électricité",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Tension, courant, résistance : la loi d’Ohm"
+    },
+    {
+     "type": "Cours",
+     "titre": "Puissance et énergie"
+    },
+    {
+     "type": "Cours",
+     "titre": "Conducteurs et câbles : sections et couleurs"
+    },
+    {
+     "type": "TP",
+     "titre": "Va-et-vient"
+    }
+   ]
+  },
+  {
+   "theme": "Commandes d’éclairage",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Lecture de schémas : symboles normalisés"
+    },
+    {
+     "type": "Cours",
+     "titre": "Le permutateur"
+    },
+    {
+     "type": "TP",
+     "titre": "Va-et-vient avec permutateur"
+    },
+    {
+     "type": "Éval",
+     "titre": "QCM sécurité et bases"
+    }
+   ]
+  },
+  {
+   "theme": "Le télérupteur",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Principe du télérupteur et des boutons poussoirs"
+    },
+    {
+     "type": "Cours",
+     "titre": "Schémas développé et architectural"
+    },
+    {
+     "type": "TP",
+     "titre": "Télérupteur commandé par plusieurs BP"
+    }
+   ]
+  },
+  {
+   "theme": "Prises de courant",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "NF C 15-100 : circuits prises et nombre de socles"
+    },
+    {
+     "type": "Cours",
+     "titre": "Circuits spécialisés"
+    },
+    {
+     "type": "TP",
+     "titre": "Circuit prises de courant 16 A"
+    }
+   ]
+  },
+  {
+   "theme": "Le tableau de répartition",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Disjoncteurs et calibres"
+    },
+    {
+     "type": "Cours",
+     "titre": "Interrupteurs différentiels 30 mA : types AC et A"
+    },
+    {
+     "type": "TP",
+     "titre": "Câblage d’un tableau 3 rangées"
+    },
+    {
+     "type": "Éval",
+     "titre": "TP noté : tableau"
+    }
+   ]
+  },
+  {
+   "theme": "Schémas unifilaire et multifilaire",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Passer du schéma de câblage au plan unifilaire"
+    },
+    {
+     "type": "Cours",
+     "titre": "Le schéma multifilaire (développé)"
+    },
+    {
+     "type": "TP",
+     "titre": "Réalisation des plans d’une installation"
+    }
+   ]
+  },
+  {
+   "theme": "Contacteur et horloge",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Le contacteur jour / nuit"
+    },
+    {
+     "type": "Cours",
+     "titre": "Commande d’un chauffe-eau (ECS) en heures creuses"
+    },
+    {
+     "type": "TP",
+     "titre": "Chauffe-eau commandé par contacteur et horloge"
+    }
+   ]
+  },
+  {
+   "theme": "Volets roulants et automatismes",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Commande de volets roulants"
+    },
+    {
+     "type": "Cours",
+     "titre": "Initiation à la domotique (KNX)"
+    },
+    {
+     "type": "TP",
+     "titre": "Commande d’un volet roulant"
+    }
+   ]
+  },
+  {
+   "theme": "Mesures et vérifications",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Le multimètre et la VAT"
+    },
+    {
+     "type": "Cours",
+     "titre": "Continuité, isolement et prise de terre"
+    },
+    {
+     "type": "TP",
+     "titre": "Autocontrôle d’une installation avant mise en service"
+    },
+    {
+     "type": "Éval",
+     "titre": "QCM appareillage et mesures"
+    }
+   ]
+  },
+  {
+   "theme": "Installation complète d’un logement",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Lire un dossier : plans et cahier des charges"
+    },
+    {
+     "type": "TP",
+     "titre": "Projet logement T2 : schémas, tableau et câblage"
+    }
+   ]
+  },
+  {
+   "theme": "Révisions et évaluation finale",
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Révisions générales"
+    },
+    {
+     "type": "Éval",
+     "titre": "QCM final"
+    },
+    {
+     "type": "Éval",
+     "titre": "TP d’examen"
+    },
+    {
+     "type": "Cours",
+     "titre": "Bilan et préparation de l’alternance"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-22T17:39:04.572Z"
+}
