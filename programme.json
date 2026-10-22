@@ -21,6 +21,41 @@
     {
      "type": "TP",
      "titre": "Simple allumage"
+    },
+    {
+     "type": "Cours",
+     "titre": "Nouveau cours"
+    }
+   ],
+   "days": [
+    {
+     "cours": [
+      {
+       "id": "vdwi76et",
+       "titre": "L'electricite ?",
+       "fname": "Principes physiques fondamentaux de l’électricité.pdf",
+       "ftype": "application/pdf",
+       "size": 2035546,
+       "gpath": "cours/S1/vdwi76et-Principes_physiques_fondamentaux_de_l_e_lectricite_.pdf"
+      }
+     ],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
     }
    ]
   },
@@ -43,6 +78,28 @@
      "type": "TP",
      "titre": "Va-et-vient"
     }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    }
    ]
   },
   {
@@ -64,6 +121,28 @@
      "type": "Éval",
      "titre": "QCM sécurité et bases"
     }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    }
    ]
   },
   {
@@ -81,6 +160,28 @@
      "type": "TP",
      "titre": "Télérupteur commandé par plusieurs BP"
     }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    }
    ]
   },
   {
@@ -97,6 +198,28 @@
     {
      "type": "TP",
      "titre": "Circuit prises de courant 16 A"
+    }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
     }
    ]
   },
@@ -119,6 +242,28 @@
      "type": "Éval",
      "titre": "TP noté : tableau"
     }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    }
    ]
   },
   {
@@ -135,6 +280,28 @@
     {
      "type": "TP",
      "titre": "Réalisation des plans d’une installation"
+    }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
     }
    ]
   },
@@ -153,6 +320,28 @@
      "type": "TP",
      "titre": "Chauffe-eau commandé par contacteur et horloge"
     }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    }
    ]
   },
   {
@@ -169,6 +358,28 @@
     {
      "type": "TP",
      "titre": "Commande d’un volet roulant"
+    }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
     }
    ]
   },
@@ -191,6 +402,28 @@
      "type": "Éval",
      "titre": "QCM appareillage et mesures"
     }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    }
    ]
   },
   {
@@ -203,6 +436,28 @@
     {
      "type": "TP",
      "titre": "Projet logement T2 : schémas, tableau et câblage"
+    }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
     }
    ]
   },
@@ -225,8 +480,30 @@
      "type": "Cours",
      "titre": "Bilan et préparation de l’alternance"
     }
+   ],
+   "days": [
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    },
+    {
+     "cours": [],
+     "fiches": []
+    }
    ]
   }
  ],
- "updatedAt": "2026-10-22T17:39:04.572Z"
+ "updatedAt": "2026-10-22T19:02:15.911Z"
 }
