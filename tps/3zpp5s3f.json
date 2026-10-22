@@ -1,0 +1,265 @@
+{
+ "id": "3zpp5s3f",
+ "titre": "Exemple – Va-et-vient + prise",
+ "semaine": 1,
+ "updatedAt": "2026-10-22T17:38:00.450Z",
+ "els": [
+  {
+   "id": "dcadshis",
+   "k": "comp",
+   "type": "I2",
+   "cx": 110,
+   "cy": 220,
+   "w": 80,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "jt2pu0rm",
+   "k": "comp",
+   "type": "D2",
+   "cx": 180,
+   "cy": 220,
+   "w": 40,
+   "rot": 0,
+   "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "vjm97ykk",
+   "k": "comp",
+   "type": "D2",
+   "cx": 225,
+   "cy": 220,
+   "w": 40,
+   "rot": 0,
+   "label": "D2",
+   "showLabel": true
+  },
+  {
+   "id": "sclokbwq",
+   "k": "comp",
+   "type": "bornier",
+   "cx": 140,
+   "cy": 390,
+   "w": 130,
+   "rot": 0,
+   "label": "X1",
+   "showLabel": false
+  },
+  {
+   "id": "5aybkll3",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 560,
+   "cy": 190,
+   "w": 110,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "kwlnyd5r",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 460,
+   "cy": 470,
+   "w": 90,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "6n6h0yyy",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 660,
+   "cy": 470,
+   "w": 90,
+   "rot": 0,
+   "label": "VV2",
+   "showLabel": true
+  },
+  {
+   "id": "xyjbfowu",
+   "k": "comp",
+   "type": "prise",
+   "cx": 880,
+   "cy": 470,
+   "w": 90,
+   "rot": 0,
+   "label": "PC1",
+   "showLabel": true
+  },
+  {
+   "id": "tejumpgs",
+   "k": "comp",
+   "type": "boite",
+   "cx": 880,
+   "cy": 200,
+   "w": 100,
+   "rot": 0,
+   "label": "",
+   "showLabel": false
+  },
+  {
+   "id": "wqm98rke",
+   "k": "wire",
+   "color": "phase",
+   "pts": [
+    [
+     190,
+     135
+    ],
+    [
+     190,
+     110
+    ],
+    [
+     340,
+     110
+    ],
+    [
+     340,
+     405
+    ],
+    [
+     440,
+     405
+    ]
+   ]
+  },
+  {
+   "id": "o7x7959m",
+   "k": "wire",
+   "color": "neutre",
+   "pts": [
+    [
+     235,
+     135
+    ],
+    [
+     235,
+     95
+    ],
+    [
+     395,
+     95
+    ],
+    [
+     520,
+     230
+    ]
+   ]
+  },
+  {
+   "id": "v325kobr",
+   "k": "wire",
+   "color": "violet",
+   "pts": [
+    [
+     445,
+     445
+    ],
+    [
+     445,
+     425
+    ],
+    [
+     650,
+     425
+    ],
+    [
+     650,
+     445
+    ]
+   ]
+  },
+  {
+   "id": "0p1wsbs3",
+   "k": "wire",
+   "color": "violet",
+   "pts": [
+    [
+     475,
+     495
+    ],
+    [
+     475,
+     520
+    ],
+    [
+     680,
+     520
+    ],
+    [
+     680,
+     495
+    ]
+   ]
+  },
+  {
+   "id": "3ehsieem",
+   "k": "text",
+   "x": 40,
+   "y": 560,
+   "size": 15,
+   "bold": false,
+   "text": "Exemple : complétez le câblage du va-et-vient\n(L1 commandée depuis VV1 et VV2) et raccordez la prise PC1 sur D2."
+  }
+ ],
+ "tab": [
+  {
+   "id": "6kwldu9j",
+   "k": "comp",
+   "type": "I2",
+   "cx": 194.75438596491227,
+   "cy": 326.5473684210526,
+   "w": 73.54385964912282,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "x9nn62cf",
+   "k": "comp",
+   "type": "D2",
+   "cx": 249.91228070175438,
+   "cy": 326.5473684210526,
+   "w": 36.77192982456141,
+   "rot": 0,
+   "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "7gvb04us",
+   "k": "comp",
+   "type": "D2",
+   "cx": 286.6842105263158,
+   "cy": 326.5473684210526,
+   "w": 36.77192982456141,
+   "rot": 0,
+   "label": "D2",
+   "showLabel": true
+  },
+  {
+   "id": "thqo2ih3",
+   "k": "comp",
+   "type": "TL",
+   "cx": 323.4561403508772,
+   "cy": 326.5473684210526,
+   "w": 36.77192982456141,
+   "rot": 0,
+   "label": "TL1",
+   "showLabel": true
+  }
+ ],
+ "fond": true,
+ "tp": null,
+ "uni": [],
+ "multi": [],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": ""
+}
