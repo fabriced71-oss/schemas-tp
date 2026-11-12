@@ -17,15 +17,19 @@
     {
      "type": "Cours",
      "titre": "Outillage, EPI et organisation du poste"
-    },
-    {
-     "type": "TP",
-     "titre": "Simple allumage"
     }
    ],
    "days": [
     {
      "cours": [
+      {
+       "id": "eeb_s1j1",
+       "titre": "Comprendre le métier d’électricien.ne – Programme de formation EEB",
+       "fname": "Programme de formation EEB.pptx",
+       "ftype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+       "size": 5995388,
+       "bundled": "eeb"
+      },
       {
        "id": "vdwi76et",
        "titre": "L'electricite ?",
@@ -38,20 +42,47 @@
      "fiches": []
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "ylpep53b",
+       "titre": "EEB-BC 1.4- Les Equipements de protectio de l'électricien.pptx",
+       "fname": "EEB-BC 1.4- Les Equipements de protectio de l'électricien.pptx",
+       "ftype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+       "size": 16237734
+      },
+      {
+       "id": "uy1bd3ok",
+       "titre": "EEB-BC 1.5- Les principes de base.pptx",
+       "fname": "EEB-BC 1.5- Les principes de base.pptx",
+       "ftype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+       "size": 12162650
+      }
+     ],
+     "fiches": []
+    },
+    {
+     "cours": [
+      {
+       "id": "2dni3awv",
+       "titre": "EEB-BC 1.6- La caisse à outil de l'électricien.pptx",
+       "fname": "EEB-BC 1.6- La caisse à outil de l'électricien.pptx",
+       "ftype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+       "size": 13583405
+      }
+     ],
      "fiches": []
     },
     {
      "cours": [],
-     "fiches": []
+     "fiches": [
+      "9lfplerp"
+     ]
     },
     {
      "cours": [],
-     "fiches": []
-    },
-    {
-     "cours": [],
-     "fiches": []
+     "fiches": [
+      "fme94wb0"
+     ]
     }
    ]
   },
@@ -501,5 +532,8 @@
    ]
   }
  ],
- "updatedAt": "2026-10-22T19:03:13.312Z"
+ "updatedAt": "2026-11-12T21:52:31.381Z",
+ "bundledAdded": [
+  "eeb_s1j1"
+ ]
 }
