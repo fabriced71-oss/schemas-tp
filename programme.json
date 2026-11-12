@@ -61,15 +61,7 @@
      "fiches": []
     },
     {
-     "cours": [
-      {
-       "id": "2dni3awv",
-       "titre": "EEB-BC 1.6- La caisse à outil de l'électricien.pptx",
-       "fname": "EEB-BC 1.6- La caisse à outil de l'électricien.pptx",
-       "ftype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-       "size": 13583405
-      }
-     ],
+     "cours": [],
      "fiches": []
     },
     {
@@ -534,7 +526,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-12T22:04:23.461Z",
+ "updatedAt": "2026-11-12T22:06:44.803Z",
  "bundledAdded": [
   "eeb_s1j1"
  ]
