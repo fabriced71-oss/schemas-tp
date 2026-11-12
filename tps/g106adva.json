@@ -1,0 +1,49 @@
+{
+ "id": "g106adva",
+ "titre": "Double VV plexo saillie",
+ "semaine": 1,
+ "updatedAt": "2026-11-12T21:54:10.894Z",
+ "els": [
+  {
+   "id": "qkjmbvx0",
+   "k": "comp",
+   "type": "P_vv",
+   "cx": 380,
+   "cy": 420,
+   "w": 100,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "h8nmfpkq",
+   "k": "comp",
+   "type": "P_dvv",
+   "cx": 650,
+   "cy": 430,
+   "w": 110,
+   "rot": 0,
+   "label": "VV2",
+   "showLabel": true
+  },
+  {
+   "id": "2kxssqky",
+   "k": "comp",
+   "type": "P_boite",
+   "cx": 515,
+   "cy": 290,
+   "w": 197,
+   "rot": 0,
+   "label": "B1",
+   "showLabel": true
+  }
+ ],
+ "tab": [],
+ "fond": true,
+ "tp": null,
+ "uni": [],
+ "multi": [],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": ""
+}
