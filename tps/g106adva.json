@@ -2,14 +2,122 @@
  "id": "g106adva",
  "titre": "Double VV plexo saillie",
  "semaine": 1,
- "updatedAt": "2026-11-12T21:56:47.777Z",
+ "updatedAt": "2026-11-12T22:04:23.461Z",
  "els": [
+  {
+   "id": "6jbz6gt5",
+   "k": "wire",
+   "color": "i25",
+   "style": "line",
+   "pts": [
+    [
+     515,
+     215
+    ],
+    [
+     515,
+     100
+    ]
+   ]
+  },
+  {
+   "id": "6xvfc4gt",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     540,
+     370
+    ],
+    [
+     540,
+     350
+    ]
+   ]
+  },
+  {
+   "id": "qrb8bvma",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     665,
+     425
+    ],
+    [
+     665,
+     370
+    ],
+    [
+     540,
+     370
+    ]
+   ]
+  },
+  {
+   "id": "1ji514pm",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     355,
+     420
+    ],
+    [
+     355,
+     375
+    ],
+    [
+     495,
+     375
+    ],
+    [
+     495,
+     340
+    ]
+   ]
+  },
+  {
+   "id": "gf2vkvjf",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     555,
+     255
+    ],
+    [
+     735,
+     255
+    ]
+   ]
+  },
+  {
+   "id": "v4sc2rg5",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     330,
+     255
+    ],
+    [
+     465,
+     255
+    ]
+   ]
+  },
   {
    "id": "qkjmbvx0",
    "k": "comp",
    "type": "P_vv",
-   "cx": 380,
-   "cy": 420,
+   "cx": 355,
+   "cy": 450,
    "w": 100,
    "rot": 0,
    "label": "VV1",
@@ -19,8 +127,8 @@
    "id": "h8nmfpkq",
    "k": "comp",
    "type": "P_dvv",
-   "cx": 650,
-   "cy": 430,
+   "cx": 665,
+   "cy": 460,
    "w": 110,
    "rot": 0,
    "label": "VV2",
@@ -35,6 +143,28 @@
    "w": 197,
    "rot": 0,
    "label": "B1",
+   "showLabel": true
+  },
+  {
+   "id": "zlvnjc9c",
+   "k": "comp",
+   "type": "P_douille",
+   "cx": 335,
+   "cy": 295,
+   "w": 100,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "qmwy6xnx",
+   "k": "comp",
+   "type": "P_douille",
+   "cx": 735,
+   "cy": 290,
+   "w": 100,
+   "rot": 0,
+   "label": "L2",
    "showLabel": true
   }
  ],
