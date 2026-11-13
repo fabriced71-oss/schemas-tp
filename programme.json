@@ -12,11 +12,16 @@
     },
     {
      "type": "Cours",
-     "titre": "Habilitation électrique NF C 18-510 : rôles et zones"
+     "titre": "Outillage, EPI et organisation du poste",
+     "cours": [
+      "c_epi_s1",
+      "c_outils_s1"
+     ]
     },
     {
      "type": "Cours",
-     "titre": "Outillage, EPI et organisation du poste"
+     "titre": "Les principes de base de l’électricité",
+     "cours": "c_principes_s1"
     }
    ],
    "days": [
@@ -56,6 +61,14 @@
        "fname": "EEB-BC 1.5- Les principes de base.pptx",
        "ftype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
        "size": 12162650
+      },
+      {
+       "id": "c_epi_s1",
+       "titre": "Les équipements de protection de l’électricien",
+       "fname": "EEB-BC 1.4 - Les équipements de protection de l’électricien.pdf",
+       "ftype": "application/pdf",
+       "size": 2217917,
+       "bundled": "epi"
       }
      ],
      "fiches": []
@@ -65,14 +78,32 @@
      "fiches": []
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "c_principes_s1",
+       "titre": "Les principes de base de l’électricité",
+       "fname": "EEB-BC 1.5 - Les principes de base.pdf",
+       "ftype": "application/pdf",
+       "size": 1230863,
+       "bundled": "principes"
+      }
+     ],
      "fiches": [
       "9lfplerp",
       "fme94wb0"
      ]
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "c_outils_s1",
+       "titre": "La caisse à outil de l’électricien",
+       "fname": "EEB-BC 1.6 - La caisse à outil de l’électricien.pdf",
+       "ftype": "application/pdf",
+       "size": 2001891,
+       "bundled": "outils"
+      }
+     ],
      "fiches": [
       "fme94wb0",
       "g106adva"
@@ -85,15 +116,18 @@
    "items": [
     {
      "type": "Cours",
-     "titre": "Tension, courant, résistance : la loi d’Ohm"
+     "titre": "Tension, courant, résistance : la loi d’Ohm",
+     "cours": "c_ohm_s2"
     },
     {
      "type": "Cours",
-     "titre": "Puissance et énergie"
+     "titre": "Puissance et énergie",
+     "cours": "c_puissance_s2"
     },
     {
      "type": "Cours",
-     "titre": "Conducteurs et câbles : sections et couleurs"
+     "titre": "Conducteurs et câbles : sections et couleurs",
+     "cours": "c_conducteurs_s2"
     },
     {
      "type": "TP",
@@ -102,15 +136,42 @@
    ],
    "days": [
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "c_ohm_s2",
+       "titre": "La loi d’Ohm : tension, courant, résistance",
+       "fname": "La loi d’Ohm – tension courant résistance.pdf",
+       "ftype": "application/pdf",
+       "size": 1087916,
+       "bundled": "ohm"
+      }
+     ],
      "fiches": []
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "c_puissance_s2",
+       "titre": "La puissance électrique : P = U × I",
+       "fname": "La puissance électrique – P = U × I.pdf",
+       "ftype": "application/pdf",
+       "size": 1247090,
+       "bundled": "puissance"
+      }
+     ],
      "fiches": []
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "c_conducteurs_s2",
+       "titre": "Conducteurs et câbles : sections et couleurs",
+       "fname": "Conducteurs et câbles – sections et couleurs.pdf",
+       "ftype": "application/pdf",
+       "size": 1411369,
+       "bundled": "conducteurs"
+      }
+     ],
      "fiches": []
     },
     {
@@ -526,8 +587,14 @@
    ]
   }
  ],
- "updatedAt": "2026-11-13T09:57:50.652Z",
+ "updatedAt": "2026-11-13T10:30:07.717Z",
  "bundledAdded": [
-  "eeb_s1j1"
+  "eeb_s1j1",
+  "c_epi_s1",
+  "c_principes_s1",
+  "c_outils_s1",
+  "c_ohm_s2",
+  "c_puissance_s2",
+  "c_conducteurs_s2"
  ]
 }
