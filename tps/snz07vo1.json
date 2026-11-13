@@ -1,9 +1,76 @@
 {
  "id": "snz07vo1",
- "titre": "",
+ "titre": "Va et Vient sur PCC et Détecteur Auto",
  "semaine": 2,
- "updatedAt": "2026-11-13T10:31:09.518Z",
- "els": [],
+ "updatedAt": "2026-11-13T10:36:36.250Z",
+ "els": [
+  {
+   "id": "zndp5887",
+   "k": "comp",
+   "type": "chassis",
+   "cx": 135,
+   "cy": 325,
+   "w": 260,
+   "rot": 0,
+   "label": "CH1",
+   "showLabel": true
+  },
+  {
+   "id": "fa0ldfz2",
+   "k": "comp",
+   "type": "I2",
+   "cx": 52.55244755244756,
+   "cy": 195.7272727272727,
+   "w": 36.64335664335665,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "dqf6xb3v",
+   "k": "comp",
+   "type": "D2",
+   "cx": 80.03496503496504,
+   "cy": 195.7272727272727,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "yqnjrkd2",
+   "k": "comp",
+   "type": "D2",
+   "cx": 98.35664335664336,
+   "cy": 195.7272727272727,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D2",
+   "showLabel": true
+  },
+  {
+   "id": "isd3osb5",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 455,
+   "cy": 435,
+   "w": 90,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "t4ihuj2a",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 640,
+   "cy": 435,
+   "w": 90,
+   "rot": 0,
+   "label": "VV2",
+   "showLabel": true
+  }
+ ],
  "tab": [],
  "fond": true,
  "tp": null,
