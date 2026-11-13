@@ -2,7 +2,7 @@
  "id": "snz07vo1",
  "titre": "Va et Vient sur PCC et Détecteur Auto",
  "semaine": 2,
- "updatedAt": "2026-11-13T10:50:57.703Z",
+ "updatedAt": "2026-11-13T12:40:37.323Z",
  "els": [
   {
    "id": "zndp5887",
@@ -74,8 +74,8 @@
    "id": "w68n6kuh",
    "k": "comp",
    "type": "prise",
-   "cx": 800,
-   "cy": 475,
+   "cx": 945,
+   "cy": 470,
    "w": 90,
    "rot": 0,
    "label": "PC1",
@@ -101,6 +101,17 @@
    "w": 110,
    "rot": 0,
    "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "nmyd20ao",
+   "k": "comp",
+   "type": "DT",
+   "cx": 775,
+   "cy": 470,
+   "w": 95,
+   "rot": 0,
+   "label": "DT1",
    "showLabel": true
   }
  ],
