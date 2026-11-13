@@ -94,10 +94,6 @@
     {
      "type": "Cours",
      "titre": "Conducteurs et câbles : sections et couleurs"
-    },
-    {
-     "type": "TP",
-     "titre": "Va-et-vient"
     }
    ],
    "days": [
@@ -526,7 +522,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-12T22:15:16.314Z",
+ "updatedAt": "2026-11-13T08:21:43.954Z",
  "bundledAdded": [
   "eeb_s1j1"
  ]
