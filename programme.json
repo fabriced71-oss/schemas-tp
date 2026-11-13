@@ -94,6 +94,10 @@
     {
      "type": "Cours",
      "titre": "Conducteurs et câbles : sections et couleurs"
+    },
+    {
+     "type": "TP",
+     "titre": "Nouveau TP"
     }
    ],
    "days": [
@@ -522,7 +526,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-13T08:21:43.954Z",
+ "updatedAt": "2026-11-13T08:24:41.155Z",
  "bundledAdded": [
   "eeb_s1j1"
  ]
