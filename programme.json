@@ -131,7 +131,8 @@
     },
     {
      "type": "TP",
-     "titre": "Nouveau TP"
+     "titre": "Nouveau TP",
+     "tp": "snz07vo1"
     }
    ],
    "days": [
@@ -587,7 +588,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-13T10:30:07.717Z",
+ "updatedAt": "2026-11-13T10:30:43.331Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
