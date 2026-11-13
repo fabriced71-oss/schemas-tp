@@ -133,6 +133,11 @@
      "type": "TP",
      "titre": "Nouveau TP",
      "tp": "snz07vo1"
+    },
+    {
+     "type": "Cours",
+     "titre": "Nouvelle évaluation",
+     "tp": "pt14513m"
     }
    ],
    "days": [
@@ -590,7 +595,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-13T10:46:09.358Z",
+ "updatedAt": "2026-11-13T14:26:47.176Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
