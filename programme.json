@@ -135,7 +135,7 @@
      "tp": "snz07vo1"
     },
     {
-     "type": "Cours",
+     "type": "Éval",
      "titre": "Nouvelle évaluation",
      "tp": "pt14513m"
     }
@@ -595,7 +595,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-13T14:26:47.176Z",
+ "updatedAt": "2026-11-13T14:26:48.923Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
