@@ -2,7 +2,7 @@
  "id": "snz07vo1",
  "titre": "Va et Vient et simple allumage saillie",
  "semaine": 2,
- "updatedAt": "2026-11-15T16:38:37.504Z",
+ "updatedAt": "2026-11-15T16:42:10.558Z",
  "els": [
   {
    "id": "kiujkki2",
@@ -191,7 +191,10 @@
   "travail": "<p>À partir du schéma fourni en annexe, vous devez :</p><ol>\n    <li>Identifier chaque organe du schéma et vérifier le matériel mis à disposition.</li>\n    <li>Réaliser le câblage : commande de L1 en va-et-vient depuis VV1, et VV3.</li><li>Réaliser le câblage : commande de L2 en simple allumage &nbsp;depuis VV é</li><li><span style=\"font-size: 10.5pt;\">Réaliser le câblage : circuit prise de courant depuis D2 2P+T : PC1 prise lave vaisselle&nbsp;</span><br></li><li>Réaliser le câblage : protection des personnes par l’interrupteur différentiel 30 mA I1, départs protégés par D1 et D2.</li><li>Réaliser le câblage : implantation des appareils modulaires sur le châssis (respect de l’ordre et des repères).</li>\n    <li>Repérer les conducteurs et les appareils conformément au schéma.</li>\n    <li>Effectuer les vérifications hors tension : continuité des conducteurs (dont le PE), absence de court-circuit, isolement.</li>\n    <li>Faire valider le câblage par le formateur, puis réaliser les essais de fonctionnement en sa présence.</li>\n    <li>Remettre le poste de travail en ordre et ranger l’outillage.</li></ol>",
   "contraintes": "<p class=\"warn\"><b>Sécurité :</b> travail exclusivement hors tension. Aucune mise sous tension sans l’accord et la présence du formateur. Port des EPI obligatoire.</p>\n    <ul><li>Respecter le schéma et les repères (14 organes à câbler).</li>\n    <li>Couleurs normalisées : phase en rouge (ou marron/noir), neutre en bleu, conducteur de protection en vert/jaune, retours en violet ou orange.</li>\n    <li>Sections et protections selon la NF C 15-100 :</li></ul><table class=\"t\"><tr><th>Circuit</th><th>Section</th><th>Protection</th><th>Limite</th></tr><tr><td>Éclairage</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>8 points lumineux maxi</td></tr><tr><td>Prises 16 A</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>5 socles maxi</td></tr><tr><td>Prises 16 A</td><td>2,5 mm²</td><td>Disjoncteur 20 A</td><td>8 socles maxi</td></tr></table>\n    <ul><li>Qualité : dénudage à la bonne longueur, pas de cuivre apparent, serrage correct des bornes, conducteurs rangés en goulotte.</li>\n    <li>Durée : voir l’en-tête. Toute modification du schéma doit être validée par le formateur.</li></ul>",
   "evaluation": "<table class=\"t\"><tr><th>Critère</th><th class=\"n\">Barème</th><th class=\"n\">Note</th></tr>\n      <tr><td>Respect du schéma et des repères</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Qualité du câblage (dénudage, serrage, rangement)</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Respect des couleurs et des sections</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><td>Sécurité et comportement au poste</td><td class=\"n\">/ 4</td><td></td></tr>\n      <tr><td>Vérifications, essais et fonctionnement</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><th>Total</th><th class=\"n\">/ 20</th><th></th></tr></table>",
-  "edited": true
+  "edited": true,
+  "blank": [
+   "Schéma de principe à réaliser par l’apprenant"
+  ]
  },
  "uni": [],
  "multi": [],
