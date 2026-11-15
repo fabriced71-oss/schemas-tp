@@ -2,8 +2,28 @@
  "id": "snz07vo1",
  "titre": "Va et Vient sur PCC et Détecteur Auto",
  "semaine": 2,
- "updatedAt": "2026-11-15T15:06:45.371Z",
+ "updatedAt": "2026-11-15T15:08:43.278Z",
  "els": [
+  {
+   "id": "kiujkki2",
+   "k": "wire",
+   "color": "m20",
+   "style": "line",
+   "pts": [
+    [
+     265,
+     485
+    ],
+    [
+     715,
+     485
+    ],
+    [
+     715,
+     160
+    ]
+   ]
+  },
   {
    "id": "zndp5887",
    "k": "comp",
@@ -52,8 +72,8 @@
    "id": "1b9g1cho",
    "k": "comp",
    "type": "boite",
-   "cx": 540,
-   "cy": 300,
+   "cx": 515,
+   "cy": 285,
    "w": 100,
    "rot": 0,
    "label": "B1",
@@ -63,11 +83,44 @@
    "id": "eanok790",
    "k": "comp",
    "type": "lampe",
-   "cx": 455,
-   "cy": 135,
+   "cx": 390,
+   "cy": 125,
    "w": 110,
    "rot": 0,
    "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "j993piy2",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 380,
+   "cy": 370,
+   "w": 90,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "iwkrjoyv",
+   "k": "comp",
+   "type": "O_prise",
+   "cx": 580,
+   "cy": 440,
+   "w": 100,
+   "rot": 0,
+   "label": "PC1",
+   "showLabel": true
+  },
+  {
+   "id": "649ufxc8",
+   "k": "comp",
+   "type": "O_vv",
+   "cx": 680,
+   "cy": 290,
+   "w": 100,
+   "rot": 0,
+   "label": "VV2",
    "showLabel": true
   }
  ],
