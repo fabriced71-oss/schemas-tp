@@ -2,7 +2,7 @@
  "id": "snz07vo1",
  "titre": "Va et Vient sur PCC et Détecteur Auto",
  "semaine": 2,
- "updatedAt": "2026-11-15T15:21:37.230Z",
+ "updatedAt": "2026-11-15T15:29:49.371Z",
  "els": [
   {
    "id": "kiujkki2",
@@ -29,8 +29,8 @@
    "k": "comp",
    "type": "chassis",
    "cx": 140,
-   "cy": 465,
-   "w": 260,
+   "cy": 485,
+   "w": 208,
    "rot": 0,
    "label": "CH1",
    "showLabel": true
@@ -39,9 +39,9 @@
    "id": "fa0ldfz2",
    "k": "comp",
    "type": "I2",
-   "cx": 57.55244755244756,
-   "cy": 325.7272727272727,
-   "w": 36.64335664335665,
+   "cx": 59.38461538461539,
+   "cy": 381.5818181818182,
+   "w": 29.314685314685313,
    "rot": 0,
    "label": "I1",
    "showLabel": true
@@ -50,9 +50,9 @@
    "id": "dqf6xb3v",
    "k": "comp",
    "type": "D2",
-   "cx": 85.03496503496504,
-   "cy": 325.7272727272727,
-   "w": 18.321678321678323,
+   "cx": 81.37062937062937,
+   "cy": 381.5818181818182,
+   "w": 14.657342657342657,
    "rot": 0,
    "label": "D1",
    "showLabel": true
@@ -61,9 +61,9 @@
    "id": "yqnjrkd2",
    "k": "comp",
    "type": "D2",
-   "cx": 103.35664335664336,
-   "cy": 325.7272727272727,
-   "w": 18.321678321678323,
+   "cx": 96.02797202797203,
+   "cy": 381.5818181818182,
+   "w": 14.657342657342657,
    "rot": 0,
    "label": "D2",
    "showLabel": true
@@ -124,17 +124,6 @@
    "showLabel": true
   },
   {
-   "id": "y5pvedyv",
-   "k": "comp",
-   "type": "linky",
-   "cx": 65,
-   "cy": 125,
-   "w": 75,
-   "rot": 0,
-   "label": "CPT1",
-   "showLabel": true
-  },
-  {
    "id": "fvv7358c",
    "k": "comp",
    "type": "P_dcl",
@@ -143,6 +132,39 @@
    "w": 90,
    "rot": 0,
    "label": "L2",
+   "showLabel": true
+  },
+  {
+   "id": "sgt344tp",
+   "k": "comp",
+   "type": "GTL",
+   "cx": 145,
+   "cy": 180,
+   "w": 224,
+   "rot": 0,
+   "label": "GTL1",
+   "showLabel": true
+  },
+  {
+   "id": "0chcl3s9",
+   "k": "comp",
+   "type": "linky",
+   "cx": 105,
+   "cy": 175,
+   "w": 95,
+   "rot": 0,
+   "label": "CPT1",
+   "showLabel": true
+  },
+  {
+   "id": "ts8af350",
+   "k": "comp",
+   "type": "DB",
+   "cx": 200,
+   "cy": 175,
+   "w": 56,
+   "rot": 0,
+   "label": "DB1",
    "showLabel": true
   }
  ],
