@@ -2,7 +2,7 @@
  "id": "snz07vo1",
  "titre": "Va et Vient sur PCC et Détecteur Auto",
  "semaine": 2,
- "updatedAt": "2026-11-15T15:29:49.371Z",
+ "updatedAt": "2026-11-15T15:30:28.794Z",
  "els": [
   {
    "id": "kiujkki2",
@@ -165,6 +165,17 @@
    "w": 56,
    "rot": 0,
    "label": "DB1",
+   "showLabel": true
+  },
+  {
+   "id": "0791zcgo",
+   "k": "comp",
+   "type": "O_vv",
+   "cx": 750,
+   "cy": 290,
+   "w": 100,
+   "rot": 0,
+   "label": "VV3",
    "showLabel": true
   }
  ],
