@@ -2,7 +2,7 @@
  "id": "snz07vo1",
  "titre": "Va et Vient et simple allumage saillie",
  "semaine": 2,
- "updatedAt": "2026-11-16T07:24:43.652Z",
+ "updatedAt": "2026-11-16T07:54:49.733Z",
  "els": [
   {
    "id": "kiujkki2",
@@ -261,6 +261,17 @@
    "w": 52,
    "rot": 0,
    "label": "VV5",
+   "showLabel": true
+  },
+  {
+   "id": "0tuacvxw",
+   "k": "comp",
+   "type": "U_prise",
+   "cx": 815,
+   "cy": 245,
+   "w": 52,
+   "rot": 0,
+   "label": "PC1",
    "showLabel": true
   }
  ],
