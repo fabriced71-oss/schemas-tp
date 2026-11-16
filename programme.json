@@ -134,6 +134,11 @@
       "c_qcm_s2_sujet",
       "c_qcm_s2_corrige"
      ]
+    },
+    {
+     "type": "Éval",
+     "titre": "",
+     "tp": "vcw7vi08"
     }
    ],
    "days": [
@@ -610,7 +615,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-16T09:20:46.432Z",
+ "updatedAt": "2026-11-16T09:33:47.587Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
