@@ -2,8 +2,88 @@
  "id": "no6olz9k",
  "titre": "Telerupteur",
  "semaine": 2,
- "updatedAt": "2026-11-16T14:55:07.611Z",
+ "updatedAt": "2026-11-16T14:56:09.273Z",
  "els": [
+  {
+   "id": "n0bsqdje",
+   "k": "wire",
+   "color": "i25",
+   "style": "curve",
+   "pts": [
+    [
+     240,
+     585
+    ],
+    [
+     330,
+     380
+    ],
+    [
+     525,
+     365
+    ]
+   ]
+  },
+  {
+   "id": "zbhob6hm",
+   "k": "wire",
+   "color": "i16",
+   "style": "curve",
+   "pts": [
+    [
+     630,
+     490
+    ],
+    [
+     710,
+     420
+    ],
+    [
+     605,
+     370
+    ]
+   ]
+  },
+  {
+   "id": "qqg7z05i",
+   "k": "wire",
+   "color": "i16",
+   "style": "curve",
+   "pts": [
+    [
+     470,
+     490
+    ],
+    [
+     420,
+     415
+    ],
+    [
+     525,
+     380
+    ]
+   ]
+  },
+  {
+   "id": "xm08o8ha",
+   "k": "wire",
+   "color": "i16",
+   "style": "curve",
+   "pts": [
+    [
+     470,
+     210
+    ],
+    [
+     455,
+     345
+    ],
+    [
+     525,
+     350
+    ]
+   ]
+  },
   {
    "id": "qust9ey3",
    "k": "comp",
