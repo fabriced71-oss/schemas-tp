@@ -130,14 +130,12 @@
      "cours": "c_conducteurs_s2"
     },
     {
-     "type": "TP",
-     "titre": "Nouveau TP",
-     "tp": "snz07vo1"
-    },
-    {
      "type": "Éval",
-     "titre": "Nouvelle évaluation",
-     "tp": "pt14513m"
+     "titre": "QCM NF C 15-100 & symboles",
+     "cours": [
+      "c_qcm_s2_sujet",
+      "c_qcm_s2_corrige"
+     ]
     }
    ],
    "days": [
@@ -187,7 +185,24 @@
      "fiches": []
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "c_qcm_s2_sujet",
+       "titre": "QCM NF C 15-100 & symboles — sujet élève",
+       "fname": "QCM NF C 15-100 & symboles - Sujet.pdf",
+       "ftype": "application/pdf",
+       "size": 62382,
+       "bundled": "qcms2"
+      },
+      {
+       "id": "c_qcm_s2_corrige",
+       "titre": "QCM NF C 15-100 & symboles — CORRIGÉ formateur",
+       "fname": "QCM NF C 15-100 & symboles - Corrige.pdf",
+       "ftype": "application/pdf",
+       "size": 88675,
+       "bundled": "qcms2corr"
+      }
+     ],
      "fiches": []
     }
    ]
@@ -595,7 +610,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-13T14:26:48.923Z",
+ "updatedAt": "2026-11-16T08:46:56.354Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
@@ -603,6 +618,8 @@
   "c_outils_s1",
   "c_ohm_s2",
   "c_puissance_s2",
-  "c_conducteurs_s2"
+  "c_conducteurs_s2",
+  "c_qcm_s2_sujet",
+  "c_qcm_s2_corrige"
  ]
 }
