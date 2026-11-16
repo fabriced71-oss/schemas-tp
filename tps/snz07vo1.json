@@ -2,7 +2,7 @@
  "id": "snz07vo1",
  "titre": "Va et Vient et simple allumage saillie",
  "semaine": 2,
- "updatedAt": "2026-11-16T06:52:19.145Z",
+ "updatedAt": "2026-11-16T06:52:56.128Z",
  "els": [
   {
    "id": "kiujkki2",
@@ -183,7 +183,7 @@
  "fond": true,
  "tp": {
   "formation": "CAP / Bac Pro MELEC",
-  "duree": "4 h",
+  "duree": "7 h",
   "date": "",
   "objectif": "<ul><li>Lire et exploiter un schéma électrique.</li><li>Réaliser le câblage d’une installation d'un logement conformément au schéma et à la NF C 15-100.</li><li>Effectuer les vérifications et les essais avant la mise en service.</li></ul>",
   "situation": "<p>Dans le cadre de la rénovation d’un logement, votre responsable vous confie la réalisation de l’installation décrite par le schéma en annexe. Vous travaillez en autonomie sur la platine d’atelier.</p>",
