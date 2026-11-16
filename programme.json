@@ -138,7 +138,7 @@
      ]
     },
     {
-     "type": "TP",
+     "type": "Cours",
      "titre": "Nouveau TP",
      "tp": "87kkhcbx"
     }
@@ -615,7 +615,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-16T08:47:17.627Z",
+ "updatedAt": "2026-11-16T08:47:41.490Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
