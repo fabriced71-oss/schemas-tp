@@ -1,8 +1,8 @@
 {
  "id": "fme94wb0",
- "titre": "Double Va et vient avec PCC",
+ "titre": "Simple allumage , telerupteur  avec PCC",
  "semaine": 1,
- "updatedAt": "2026-11-16T09:00:28.699Z",
+ "updatedAt": "2026-11-16T09:20:07.234Z",
  "els": [
   {
    "id": "hltsb9d0",
@@ -151,7 +151,7 @@
    "id": "nbqsoaiw",
    "k": "comp",
    "type": "I2",
-   "cx": 60.64981172673481,
+   "cx": 69.39429800968264,
    "cy": 407.74405594405596,
    "w": 37.48897256589565,
    "rot": 0,
@@ -162,7 +162,7 @@
    "id": "ubucts7q",
    "k": "comp",
    "type": "D2",
-   "cx": 88.76654115115656,
+   "cx": 97.51102743410438,
    "cy": 407.74405594405596,
    "w": 18.744486282947825,
    "rot": 0,
@@ -236,32 +236,10 @@
    "showLabel": true
   },
   {
-   "id": "m8zrbjhi",
-   "k": "comp",
-   "type": "DVV",
-   "cx": 685,
-   "cy": 525,
-   "w": 110,
-   "rot": 0,
-   "label": "VV2",
-   "showLabel": true
-  },
-  {
-   "id": "0ta6kjaf",
-   "k": "comp",
-   "type": "VV1",
-   "cx": 860,
-   "cy": 520,
-   "w": 90,
-   "rot": 0,
-   "label": "VV3",
-   "showLabel": true
-  },
-  {
    "id": "9hysl75o",
    "k": "comp",
    "type": "D2",
-   "cx": 107.51102743410438,
+   "cx": 116.25551371705221,
    "cy": 407.74405594405596,
    "w": 18.744486282947825,
    "rot": 0,
@@ -310,6 +288,39 @@
    "w": 50,
    "rot": 0,
    "label": "DB1",
+   "showLabel": true
+  },
+  {
+   "id": "i7ol7gkc",
+   "k": "comp",
+   "type": "BP",
+   "cx": 685,
+   "cy": 530,
+   "w": 90,
+   "rot": 0,
+   "label": "BP1",
+   "showLabel": true
+  },
+  {
+   "id": "ujqhyizd",
+   "k": "comp",
+   "type": "BP",
+   "cx": 855,
+   "cy": 530,
+   "w": 90,
+   "rot": 0,
+   "label": "BP2",
+   "showLabel": true
+  },
+  {
+   "id": "uekxgkpr",
+   "k": "comp",
+   "type": "TL",
+   "cx": 135.00000000000003,
+   "cy": 407.74405594405596,
+   "w": 18.744486282947825,
+   "rot": 0,
+   "label": "TL1",
    "showLabel": true
   }
  ],
