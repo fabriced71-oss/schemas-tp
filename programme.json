@@ -89,8 +89,7 @@
       }
      ],
      "fiches": [
-      "9lfplerp",
-      "fme94wb0"
+      "9lfplerp"
      ]
     },
     {
@@ -105,7 +104,6 @@
       }
      ],
      "fiches": [
-      "fme94wb0",
       "g106adva"
      ]
     }
@@ -178,7 +176,9 @@
        "bundled": "conducteurs"
       }
      ],
-     "fiches": []
+     "fiches": [
+      "fme94wb0"
+     ]
     },
     {
      "cours": [],
@@ -610,7 +610,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-16T08:57:40.582Z",
+ "updatedAt": "2026-11-16T09:20:18.065Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
