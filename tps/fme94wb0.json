@@ -1,0 +1,302 @@
+{
+ "id": "fme94wb0",
+ "titre": "Double Va et vient avec PCC",
+ "semaine": 1,
+ "updatedAt": "2026-11-16T08:58:55.793Z",
+ "els": [
+  {
+   "id": "hltsb9d0",
+   "k": "wire",
+   "color": "g20",
+   "style": "curve",
+   "pts": [
+    [
+     455,
+     640
+    ],
+    [
+     330,
+     535
+    ],
+    [
+     505,
+     380
+    ],
+    [
+     510,
+     390
+    ]
+   ]
+  },
+  {
+   "id": "ohhg0xr2",
+   "k": "wire",
+   "color": "g20",
+   "style": "curve",
+   "pts": [
+    [
+     220,
+     395
+    ],
+    [
+     415,
+     380
+    ],
+    [
+     510,
+     340
+    ]
+   ]
+  },
+  {
+   "id": "q5ktefla",
+   "k": "wire",
+   "color": "g16",
+   "style": "curve",
+   "pts": [
+    [
+     525,
+     420
+    ],
+    [
+     500,
+     480
+    ]
+   ]
+  },
+  {
+   "id": "q17qnpq1",
+   "k": "wire",
+   "color": "g16",
+   "style": "curve",
+   "pts": [
+    [
+     680,
+     490
+    ],
+    [
+     565,
+     455
+    ],
+    [
+     555,
+     395
+    ]
+   ]
+  },
+  {
+   "id": "1g6souo8",
+   "k": "wire",
+   "color": "g16",
+   "style": "curve",
+   "pts": [
+    [
+     590,
+     375
+    ],
+    [
+     830,
+     400
+    ],
+    [
+     860,
+     490
+    ]
+   ]
+  },
+  {
+   "id": "nqwy73up",
+   "k": "wire",
+   "color": "g16",
+   "style": "curve",
+   "pts": [
+    [
+     585,
+     355
+    ],
+    [
+     710,
+     230
+    ]
+   ]
+  },
+  {
+   "id": "u4frr5e5",
+   "k": "wire",
+   "color": "g16",
+   "style": "line",
+   "pts": [
+    [
+     540,
+     330
+    ],
+    [
+     540,
+     230
+    ]
+   ]
+  },
+  {
+   "id": "a09bobl0",
+   "k": "comp",
+   "type": "chassis",
+   "cx": 155,
+   "cy": 420,
+   "w": 266,
+   "rot": 0,
+   "label": "CH1",
+   "showLabel": true
+  },
+  {
+   "id": "nbqsoaiw",
+   "k": "comp",
+   "type": "I2",
+   "cx": 70.64981172673481,
+   "cy": 287.74405594405596,
+   "w": 37.48897256589565,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "ubucts7q",
+   "k": "comp",
+   "type": "D2",
+   "cx": 98.76654115115656,
+   "cy": 287.74405594405596,
+   "w": 18.744486282947825,
+   "rot": 0,
+   "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "7wia9wcj",
+   "k": "comp",
+   "type": "boite",
+   "cx": 550,
+   "cy": 365,
+   "w": 100,
+   "rot": 0,
+   "label": "B1",
+   "showLabel": false
+  },
+  {
+   "id": "mu12o60u",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 555,
+   "cy": 170,
+   "w": 110,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "c0svfp1o",
+   "k": "comp",
+   "type": "bornier",
+   "cx": 150,
+   "cy": 180,
+   "w": 130,
+   "rot": 0,
+   "label": "X1",
+   "showLabel": false
+  },
+  {
+   "id": "0qzyrf69",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 750,
+   "cy": 175,
+   "w": 110,
+   "rot": 0,
+   "label": "L2",
+   "showLabel": true
+  },
+  {
+   "id": "m11riscu",
+   "k": "comp",
+   "type": "P_prise",
+   "cx": -95,
+   "cy": 475,
+   "w": 100,
+   "rot": 0,
+   "label": "PC2",
+   "showLabel": true
+  },
+  {
+   "id": "y6g7gdba",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 500,
+   "cy": 520,
+   "w": 90,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "m8zrbjhi",
+   "k": "comp",
+   "type": "DVV",
+   "cx": 685,
+   "cy": 525,
+   "w": 110,
+   "rot": 0,
+   "label": "VV2",
+   "showLabel": true
+  },
+  {
+   "id": "0ta6kjaf",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 860,
+   "cy": 520,
+   "w": 90,
+   "rot": 0,
+   "label": "VV3",
+   "showLabel": true
+  },
+  {
+   "id": "9hysl75o",
+   "k": "comp",
+   "type": "D2",
+   "cx": 117.51102743410438,
+   "cy": 287.74405594405596,
+   "w": 18.744486282947825,
+   "rot": 0,
+   "label": "D2",
+   "showLabel": true
+  },
+  {
+   "id": "m5rxsofv",
+   "k": "comp",
+   "type": "prise",
+   "cx": 500,
+   "cy": 660,
+   "w": 90,
+   "rot": 0,
+   "label": "PC3",
+   "showLabel": true
+  }
+ ],
+ "tab": [],
+ "fond": true,
+ "tp": {
+  "formation": "CAP / Bac Pro MELEC",
+  "duree": "4 h",
+  "date": "",
+  "objectif": "<ul><li>Lire et exploiter un schéma électrique.</li><li>Réaliser le câblage d’une installation conformément au schéma et à la NF C 15-100.</li><li>Effectuer les vérifications et les essais avant la mise en service.</li></ul>",
+  "situation": "<p>Dans le cadre de la rénovation d’un logement, votre responsable vous confie la réalisation de l’installation décrite par le schéma en annexe. Vous travaillez en autonomie sur la platine d’atelier.</p>",
+  "materiel": "<table class=\"t\"><tr><th class=\"n\">Qté</th><th>Désignation</th><th>Repères sur le schéma</th></tr><tr><td class=\"n\">1</td><td>Inter. différentiel 40A 30mA</td><td>I1</td></tr><tr><td class=\"n\">1</td><td>Disjoncteur</td><td>D1</td></tr><tr><td class=\"n\">1</td><td>Bornier N / Ph / T</td><td>X1</td></tr><tr><td class=\"n\">1</td><td>Châssis 3 rangées</td><td>CH1</td></tr><tr><td class=\"n\">2</td><td>Va-et-vient</td><td>VV1, VV2</td></tr><tr><td class=\"n\">1</td><td>Permutateur</td><td>VV3</td></tr><tr><td class=\"n\">2</td><td>Point lumineux DCL</td><td>L1, L2</td></tr><tr><td class=\"n\">1</td><td>Boîte d’encastrement</td><td>B1</td></tr><tr><td class=\"n\">2</td><td>Prise 2P+T Plexo</td><td>PC1, PC2</td></tr></table>\n    <p>Conducteurs H07V-U / H07V-R, embouts de câblage, goulotte, colliers, étiquettes de repérage. Gaines ICTA : Ø16 (5 tronçons), Ø20 (1 tronçon).</p>",
+  "travail": "<p>À partir du schéma fourni en annexe, vous devez :</p><ol>\n    <li>Identifier chaque organe du schéma et vérifier le matériel mis à disposition.</li>\n    <li>Réaliser le câblage : commande de L1 et L2 en va-et-vient depuis VV1 et VV2, avec permutateur VV3.</li><li>Réaliser le câblage : circuit prises de courant 2P+T : PC1 et PC2.</li><li>Réaliser le câblage : protection des personnes par l’interrupteur différentiel 30 mA I1, départs protégés par D1.</li><li>Réaliser le câblage : implantation des appareils modulaires sur le châssis (respect de l’ordre et des repères).</li>\n    <li>Repérer les conducteurs et les appareils conformément au schéma.</li>\n    <li>Effectuer les vérifications hors tension : continuité des conducteurs (dont le PE), absence de court-circuit, isolement.</li>\n    <li>Faire valider le câblage par le formateur, puis réaliser les essais de fonctionnement en sa présence.</li>\n    <li>Remettre le poste de travail en ordre et ranger l’outillage.</li></ol>",
+  "contraintes": "<p class=\"warn\"><b>Sécurité :</b> travail exclusivement hors tension. Aucune mise sous tension sans l’accord et la présence du formateur. Port des EPI obligatoire.</p>\n    <ul><li>Respecter le schéma et les repères (12 organes à câbler).</li>\n    <li>Couleurs normalisées : phase en rouge (ou marron/noir), neutre en bleu, conducteur de protection en vert/jaune, retours en violet ou orange.</li>\n    <li>Sections et protections selon la NF C 15-100 :</li></ul><table class=\"t\"><tr><th>Circuit</th><th>Section</th><th>Protection</th><th>Limite</th></tr><tr><td>Éclairage</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>8 points lumineux maxi</td></tr><tr><td>Prises 16 A</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>5 socles maxi</td></tr><tr><td>Prises 16 A</td><td>2,5 mm²</td><td>Disjoncteur 20 A</td><td>8 socles maxi</td></tr></table>\n    <ul><li>Qualité : dénudage à la bonne longueur, pas de cuivre apparent, serrage correct des bornes, conducteurs rangés en goulotte.</li>\n    <li>Durée : voir l’en-tête. Toute modification du schéma doit être validée par le formateur.</li></ul>",
+  "evaluation": "<table class=\"t\"><tr><th>Critère</th><th class=\"n\">Barème</th><th class=\"n\">Note</th></tr>\n      <tr><td>Respect du schéma et des repères</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Qualité du câblage (dénudage, serrage, rangement)</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Respect des couleurs et des sections</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><td>Sécurité et comportement au poste</td><td class=\"n\">/ 4</td><td></td></tr>\n      <tr><td>Vérifications, essais et fonctionnement</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><th>Total</th><th class=\"n\">/ 20</th><th></th></tr></table>",
+  "edited": false
+ },
+ "uni": [],
+ "multi": [],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": ""
+}
