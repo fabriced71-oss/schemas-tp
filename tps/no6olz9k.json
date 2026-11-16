@@ -1,0 +1,104 @@
+{
+ "id": "no6olz9k",
+ "titre": "Telerupteur ",
+ "semaine": 2,
+ "updatedAt": "2026-11-16T14:13:42.792Z",
+ "els": [],
+ "tab": [],
+ "fond": true,
+ "tp": null,
+ "uni": [],
+ "multi": [
+  {
+   "id": "1jq8u0he",
+   "k": "comp",
+   "type": "M_diff2",
+   "cx": 140,
+   "cy": 130,
+   "w": 83,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "nzb421co",
+   "k": "comp",
+   "type": "M_disj2",
+   "cx": 130,
+   "cy": 250,
+   "w": 68,
+   "rot": 0,
+   "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "q6r9nbk5",
+   "k": "comp",
+   "type": "M_bp",
+   "cx": 300,
+   "cy": 395,
+   "w": 52,
+   "rot": 0,
+   "label": "BP1",
+   "showLabel": true
+  },
+  {
+   "id": "v1gcfd44",
+   "k": "comp",
+   "type": "M_bp",
+   "cx": 435,
+   "cy": 395,
+   "w": 52,
+   "rot": 0,
+   "label": "BP2",
+   "showLabel": true
+  },
+  {
+   "id": "5ohu8zvm",
+   "k": "comp",
+   "type": "M_bp",
+   "cx": 560,
+   "cy": 395,
+   "w": 52,
+   "rot": 0,
+   "label": "BP3",
+   "showLabel": true
+  },
+  {
+   "id": "h568kc9a",
+   "k": "comp",
+   "type": "M_bob_km",
+   "cx": 725,
+   "cy": 395,
+   "w": 65,
+   "rot": 0,
+   "label": "KM1",
+   "showLabel": true
+  },
+  {
+   "id": "zgdgq8f5",
+   "k": "comp",
+   "type": "M_lampe",
+   "cx": 920,
+   "cy": 400,
+   "w": 52,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "mi2vt1gp",
+   "k": "comp",
+   "type": "M_ct_km",
+   "cx": 820,
+   "cy": 395,
+   "w": 42,
+   "rot": 0,
+   "label": "KM2",
+   "showLabel": true
+  }
+ ],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": ""
+}
