@@ -136,11 +136,6 @@
       "c_qcm_s2_sujet",
       "c_qcm_s2_corrige"
      ]
-    },
-    {
-     "type": "Cours",
-     "titre": "Nouveau TP",
-     "tp": "87kkhcbx"
     }
    ],
    "days": [
@@ -615,7 +610,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-16T08:47:41.490Z",
+ "updatedAt": "2026-11-16T08:48:33.562Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
