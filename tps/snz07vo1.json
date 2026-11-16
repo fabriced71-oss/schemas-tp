@@ -2,7 +2,7 @@
  "id": "snz07vo1",
  "titre": "Va et Vient et simple allumage saillie",
  "semaine": 2,
- "updatedAt": "2026-11-16T06:53:42.744Z",
+ "updatedAt": "2026-11-16T07:20:17.430Z",
  "els": [
   {
    "id": "kiujkki2",
@@ -197,7 +197,262 @@
   ]
  },
  "uni": [],
- "multi": [],
+ "multi": [
+  {
+   "id": "yex1if6v",
+   "k": "comp",
+   "type": "M_diff2",
+   "cx": 150,
+   "cy": 160,
+   "w": 83,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "4lbirxdj",
+   "k": "comp",
+   "type": "M_ct",
+   "cx": 335,
+   "cy": 345,
+   "w": 39,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "x2n9dhsp",
+   "k": "comp",
+   "type": "M_vv",
+   "cx": 520,
+   "cy": 340,
+   "w": 65,
+   "rot": 0,
+   "label": "VV2",
+   "showLabel": true
+  },
+  {
+   "id": "5cfwlj5r",
+   "k": "wire",
+   "color": "phase",
+   "style": "line",
+   "pts": [
+    [
+     165,
+     225
+    ],
+    [
+     340,
+     225
+    ],
+    [
+     340,
+     295
+    ]
+   ]
+  },
+  {
+   "id": "34qrwc5o",
+   "k": "wire",
+   "color": "phase",
+   "style": "line",
+   "pts": [
+    [
+     340,
+     230
+    ],
+    [
+     435,
+     230
+    ],
+    [
+     435,
+     440
+    ],
+    [
+     520,
+     440
+    ],
+    [
+     520,
+     395
+    ]
+   ]
+  },
+  {
+   "id": "g3n4jqwf",
+   "k": "comp",
+   "type": "M_lampe",
+   "cx": 205,
+   "cy": 400,
+   "w": 52,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "vqbh35tw",
+   "k": "wire",
+   "color": "neutre",
+   "style": "line",
+   "pts": [
+    [
+     130,
+     225
+    ],
+    [
+     130,
+     300
+    ],
+    [
+     210,
+     300
+    ],
+    [
+     210,
+     345
+    ]
+   ]
+  },
+  {
+   "id": "u8wg762k",
+   "k": "wire",
+   "color": "violet",
+   "style": "line",
+   "pts": [
+    [
+     205,
+     455
+    ],
+    [
+     205,
+     545
+    ],
+    [
+     345,
+     545
+    ],
+    [
+     345,
+     395
+    ],
+    [
+     330,
+     395
+    ]
+   ]
+  },
+  {
+   "id": "mvxt7rvu",
+   "k": "wire",
+   "color": "orange",
+   "style": "line",
+   "pts": [
+    [
+     530,
+     295
+    ],
+    [
+     530,
+     215
+    ],
+    [
+     685,
+     215
+    ],
+    [
+     685,
+     300
+    ]
+   ]
+  },
+  {
+   "id": "fz7byk96",
+   "k": "comp",
+   "type": "M_vv",
+   "cx": 700,
+   "cy": 350,
+   "w": 65,
+   "rot": 0,
+   "label": "VV3",
+   "showLabel": true
+  },
+  {
+   "id": "0h4hnmp8",
+   "k": "wire",
+   "color": "orange",
+   "style": "line",
+   "pts": [
+    [
+     500,
+     290
+    ],
+    [
+     500,
+     160
+    ],
+    [
+     715,
+     160
+    ],
+    [
+     715,
+     300
+    ]
+   ]
+  },
+  {
+   "id": "q67acf45",
+   "k": "wire",
+   "color": "noir",
+   "style": "line",
+   "pts": [
+    [
+     700,
+     400
+    ],
+    [
+     700,
+     570
+    ],
+    [
+     140,
+     570
+    ],
+    [
+     140,
+     415
+    ]
+   ]
+  },
+  {
+   "id": "343d8g3r",
+   "k": "comp",
+   "type": "M_lampe",
+   "cx": 140,
+   "cy": 400,
+   "w": 52,
+   "rot": 0,
+   "label": "L2",
+   "showLabel": true
+  },
+  {
+   "id": "vr3gkw5e",
+   "k": "wire",
+   "color": "neutre",
+   "style": "line",
+   "pts": [
+    [
+     140,
+     350
+    ],
+    [
+     140,
+     300
+    ]
+   ]
+  }
+ ],
  "cart": true,
  "formateur": "DUPIN",
  "consigne": ""
