@@ -136,6 +136,11 @@
       "c_qcm_s2_sujet",
       "c_qcm_s2_corrige"
      ]
+    },
+    {
+     "type": "TP",
+     "titre": "Nouveau TP",
+     "tp": "87kkhcbx"
     }
    ],
    "days": [
@@ -610,7 +615,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-16T08:46:56.354Z",
+ "updatedAt": "2026-11-16T08:47:17.627Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
