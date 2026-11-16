@@ -1,0 +1,27 @@
+{
+ "id": "h7gpatwy",
+ "titre": "TP semaine 2",
+ "semaine": 2,
+ "updatedAt": "2026-11-16T10:01:09.730Z",
+ "els": [
+  {
+   "id": "ia6l3ct0",
+   "k": "comp",
+   "type": "PL_vv",
+   "cx": 561.5,
+   "cy": 417,
+   "w": 900,
+   "rot": 0,
+   "label": "",
+   "showLabel": false
+  }
+ ],
+ "tab": [],
+ "fond": true,
+ "tp": null,
+ "uni": [],
+ "multi": [],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": ""
+}
