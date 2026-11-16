@@ -2,7 +2,7 @@
  "id": "no6olz9k",
  "titre": "Telerupteur ",
  "semaine": 2,
- "updatedAt": "2026-11-16T14:48:45.854Z",
+ "updatedAt": "2026-11-16T14:50:28.772Z",
  "els": [
   {
    "id": "qust9ey3",
@@ -46,6 +46,94 @@
    "w": 54,
    "rot": 0,
    "label": "DB1",
+   "showLabel": true
+  },
+  {
+   "id": "zwpfrj7i",
+   "k": "comp",
+   "type": "BP",
+   "cx": 490,
+   "cy": 525,
+   "w": 90,
+   "rot": 0,
+   "label": "BP1",
+   "showLabel": true
+  },
+  {
+   "id": "21yq6dw3",
+   "k": "comp",
+   "type": "BP",
+   "cx": 625,
+   "cy": 525,
+   "w": 90,
+   "rot": 0,
+   "label": "BP2",
+   "showLabel": true
+  },
+  {
+   "id": "y211829p",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 505,
+   "cy": 150,
+   "w": 110,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "lfileozy",
+   "k": "comp",
+   "type": "boite",
+   "cx": 565,
+   "cy": 365,
+   "w": 100,
+   "rot": 0,
+   "label": "B1",
+   "showLabel": false
+  },
+  {
+   "id": "57y7j79z",
+   "k": "comp",
+   "type": "I2",
+   "cx": 57.55244755244756,
+   "cy": 385.7272727272727,
+   "w": 36.64335664335665,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "db3044lt",
+   "k": "comp",
+   "type": "D2",
+   "cx": 85.03496503496504,
+   "cy": 385.7272727272727,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "6nfyuihp",
+   "k": "comp",
+   "type": "TL",
+   "cx": 121.67832167832168,
+   "cy": 385.7272727272727,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "TL1",
+   "showLabel": true
+  },
+  {
+   "id": "6zqikea0",
+   "k": "comp",
+   "type": "D2",
+   "cx": 103.35664335664336,
+   "cy": 385.7272727272727,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D2",
    "showLabel": true
   }
  ],
