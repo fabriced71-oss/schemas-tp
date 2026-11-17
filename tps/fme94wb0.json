@@ -2,7 +2,7 @@
  "id": "fme94wb0",
  "titre": "va et vient , telerupteur  avec PCC",
  "semaine": 2,
- "updatedAt": "2026-11-17T08:45:04.229Z",
+ "updatedAt": "2026-11-17T08:46:23.219Z",
  "els": [
   {
    "id": "hltsb9d0",
@@ -338,7 +338,7 @@
   "evaluation": "<table class=\"t\"><tr><th>Critère</th><th class=\"n\">Barème</th><th class=\"n\">Note</th></tr>\n      <tr><td>Respect du schéma et des repères</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Qualité du câblage (dénudage, serrage, rangement)</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Respect des couleurs et des sections</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><td>Sécurité et comportement au poste</td><td class=\"n\">/ 4</td><td></td></tr>\n      <tr><td>Vérifications, essais et fonctionnement</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><th>Total</th><th class=\"n\">/ 20</th><th></th></tr></table>",
   "edited": true,
   "blank": [
-   "Schéma de principe à réaliser par l’apprenant"
+   "Schéma de principe Va et vient et Telerupteur &nbsp;à réaliser par l’apprenant"
   ],
   "pages": {
    "enonce": true
