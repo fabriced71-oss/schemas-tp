@@ -2,7 +2,7 @@
  "id": "fme94wb0",
  "titre": "Simple allumage , telerupteur  avec PCC",
  "semaine": 2,
- "updatedAt": "2026-11-17T08:39:31.929Z",
+ "updatedAt": "2026-11-17T08:40:09.191Z",
  "els": [
   {
    "id": "hltsb9d0",
@@ -339,7 +339,10 @@
   "edited": true,
   "blank": [
    "Schéma de principe à réaliser par l’apprenant"
-  ]
+  ],
+  "pages": {
+   "enonce": true
+  }
  },
  "uni": [],
  "multi": [],
