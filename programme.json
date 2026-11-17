@@ -444,7 +444,8 @@
     },
     {
      "cours": [],
-     "fiches": []
+     "fiches": [],
+     "off": true
     },
     {
      "cours": [],
@@ -613,7 +614,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-17T09:49:08.376Z",
+ "updatedAt": "2026-11-17T09:50:28.018Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
