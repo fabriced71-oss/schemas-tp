@@ -2,7 +2,7 @@
  "id": "fme94wb0",
  "titre": "va et vient , telerupteur  avec PCC",
  "semaine": 2,
- "updatedAt": "2026-11-17T08:46:23.219Z",
+ "updatedAt": "2026-11-17T08:47:04.590Z",
  "els": [
   {
    "id": "hltsb9d0",
@@ -327,7 +327,7 @@
  "tab": [],
  "fond": true,
  "tp": {
-  "formation": "CAP / Bac Pro MELEC",
+  "formation": "EEB180&nbsp;<br>",
   "duree": "6 h",
   "date": "",
   "objectif": "<ul><li>Lire et exploiter un schéma électrique.</li><li>Réaliser le câblage d’une installation conformément au schéma et à la NF C 15-100.</li><li>Effectuer les vérifications et les essais avant la mise en service.</li></ul>",
