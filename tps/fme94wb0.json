@@ -2,8 +2,48 @@
  "id": "fme94wb0",
  "titre": "Va-et-vient, télérupteur avec Prise commandée",
  "semaine": 2,
- "updatedAt": "2026-11-18T15:32:18.948Z",
+ "updatedAt": "2026-11-18T15:32:56.403Z",
  "els": [
+  {
+   "id": "x2zxiqwv",
+   "k": "wire",
+   "color": "i25",
+   "style": "curve",
+   "pts": [
+    [
+     250,
+     445
+    ],
+    [
+     355,
+     380
+    ],
+    [
+     505,
+     365
+    ]
+   ]
+  },
+  {
+   "id": "17ez3vma",
+   "k": "wire",
+   "color": "i16",
+   "style": "curve",
+   "pts": [
+    [
+     365,
+     230
+    ],
+    [
+     450,
+     325
+    ],
+    [
+     515,
+     335
+    ]
+   ]
+  },
   {
    "id": "hltsb9d0",
    "k": "wire",
@@ -25,26 +65,6 @@
     [
      510,
      390
-    ]
-   ]
-  },
-  {
-   "id": "ohhg0xr2",
-   "k": "wire",
-   "color": "g20",
-   "style": "curve",
-   "pts": [
-    [
-     220,
-     395
-    ],
-    [
-     415,
-     380
-    ],
-    [
-     510,
-     340
     ]
    ]
   },
