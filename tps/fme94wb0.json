@@ -2,7 +2,7 @@
  "id": "fme94wb0",
  "titre": "Va-et-vient, télérupteur avec Prise commandée",
  "semaine": 2,
- "updatedAt": "2026-11-18T15:31:09.735Z",
+ "updatedAt": "2026-11-18T15:32:18.948Z",
  "els": [
   {
    "id": "hltsb9d0",
@@ -184,8 +184,8 @@
    "id": "mu12o60u",
    "k": "comp",
    "type": "lampe",
-   "cx": 555,
-   "cy": 170,
+   "cx": 385,
+   "cy": 180,
    "w": 110,
    "rot": 0,
    "label": "L1",
@@ -206,8 +206,8 @@
    "id": "0qzyrf69",
    "k": "comp",
    "type": "lampe",
-   "cx": 750,
-   "cy": 175,
+   "cx": 555,
+   "cy": 180,
    "w": 110,
    "rot": 0,
    "label": "L2",
@@ -332,6 +332,17 @@
    "w": 37.48897256589565,
    "rot": 0,
    "label": "I2",
+   "showLabel": true
+  },
+  {
+   "id": "ht6uyegq",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 730,
+   "cy": 180,
+   "w": 110,
+   "rot": 0,
+   "label": "L3",
    "showLabel": true
   }
  ],
