@@ -213,12 +213,7 @@
   },
   {
    "theme": "Telerupteurs, ",
-   "items": [
-    {
-     "type": "Cours",
-     "titre": "Lecture de schémas : symboles normalisés"
-    }
-   ],
+   "items": [],
    "days": [
     {
      "cours": [],
@@ -604,7 +599,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T09:52:29.343Z",
+ "updatedAt": "2026-11-19T10:04:23.563Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
