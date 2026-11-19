@@ -238,7 +238,7 @@
    ]
   },
   {
-   "theme": "Les contacteurs ",
+   "theme": "Les contacteurs et Horloge ",
    "items": [
     {
      "type": "Cours",
@@ -521,7 +521,7 @@
    ]
   },
   {
-   "theme": "Installation complète d’un logement",
+   "theme": "Installation complète d’un logeme",
    "items": [
     {
      "type": "Cours",
@@ -599,7 +599,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T10:07:07.378Z",
+ "updatedAt": "2026-11-19T10:07:42.047Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
