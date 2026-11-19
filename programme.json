@@ -254,11 +254,12 @@
      "cours": [
       {
        "id": "c_horloge_s3",
-       "titre": "L’horloge programmable (mécanique et électronique)",
+       "titre": "L’horloge programmable – cours animé (diapositives)",
        "fname": "L horloge programmable.pdf",
        "ftype": "application/pdf",
        "size": 171406,
-       "bundled": "horloge"
+       "bundled": "horloge",
+       "slides": "horloge"
       },
       {
        "id": "c_anim_hp_s3",
@@ -280,7 +281,13 @@
   },
   {
    "theme": "Les contacteurs et Horloge ",
-   "items": [],
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Nouveau cours",
+     "cours": "c_horloge_s3"
+    }
+   ],
    "days": [
     {
      "cours": [],
@@ -627,7 +634,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T11:40:48.473Z",
+ "updatedAt": "2026-11-19T11:51:26.504Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
