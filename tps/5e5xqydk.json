@@ -1,0 +1,104 @@
+{
+ "id": "5e5xqydk",
+ "titre": "TP semaine 3 Horloge ",
+ "semaine": 3,
+ "updatedAt": "2026-11-19T11:34:10.778Z",
+ "els": [
+  {
+   "id": "dsqd4rc9",
+   "k": "comp",
+   "type": "chassis",
+   "cx": 135,
+   "cy": 500,
+   "w": 260,
+   "rot": 0,
+   "label": "CH1",
+   "showLabel": true
+  },
+  {
+   "id": "dvk3c3o1",
+   "k": "comp",
+   "type": "GTL",
+   "cx": 140,
+   "cy": 130,
+   "w": 220,
+   "rot": 0,
+   "label": "GTL1",
+   "showLabel": true
+  },
+  {
+   "id": "pnqrutsy",
+   "k": "comp",
+   "type": "linky",
+   "cx": 105,
+   "cy": 130,
+   "w": 95,
+   "rot": 0,
+   "label": "CPT1",
+   "showLabel": true
+  },
+  {
+   "id": "60cjf98c",
+   "k": "comp",
+   "type": "DB",
+   "cx": 195,
+   "cy": 130,
+   "w": 53,
+   "rot": 0,
+   "label": "DB1",
+   "showLabel": true
+  },
+  {
+   "id": "f5xgbtqr",
+   "k": "comp",
+   "type": "bornier",
+   "cx": 125,
+   "cy": 260,
+   "w": 130,
+   "rot": 0,
+   "label": "X1",
+   "showLabel": false
+  },
+  {
+   "id": "5r8blbee",
+   "k": "comp",
+   "type": "I2",
+   "cx": 52.55244755244756,
+   "cy": 370.7272727272727,
+   "w": 36.64335664335665,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "eoyt1dp3",
+   "k": "comp",
+   "type": "D2",
+   "cx": 80.03496503496504,
+   "cy": 370.7272727272727,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "mq15xh45",
+   "k": "comp",
+   "type": "horloge",
+   "cx": 107.51748251748252,
+   "cy": 370.7272727272727,
+   "w": 36.64335664335665,
+   "rot": 0,
+   "label": "HP1",
+   "showLabel": true
+  }
+ ],
+ "tab": [],
+ "fond": true,
+ "tp": null,
+ "uni": [],
+ "multi": [],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": ""
+}
