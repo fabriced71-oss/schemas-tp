@@ -2,7 +2,7 @@
  "id": "5e5xqydk",
  "titre": "TP semaine 3 inter auto ",
  "semaine": 3,
- "updatedAt": "2026-11-19T11:36:16.163Z",
+ "updatedAt": "2026-11-19T11:38:11.325Z",
  "els": [
   {
    "id": "dsqd4rc9",
@@ -63,7 +63,7 @@
    "id": "5r8blbee",
    "k": "comp",
    "type": "I2",
-   "cx": 52.55244755244756,
+   "cx": 34.23076923076923,
    "cy": 370.7272727272727,
    "w": 36.64335664335665,
    "rot": 0,
@@ -74,7 +74,7 @@
    "id": "eoyt1dp3",
    "k": "comp",
    "type": "D2",
-   "cx": 80.03496503496504,
+   "cx": 61.71328671328672,
    "cy": 370.7272727272727,
    "w": 18.321678321678323,
    "rot": 0,
@@ -82,36 +82,14 @@
    "showLabel": true
   },
   {
-   "id": "b5garbmt",
-   "k": "comp",
-   "type": "voyant",
-   "cx": 153.32167832167835,
-   "cy": 370.7272727272727,
-   "w": 18.321678321678323,
-   "rot": 0,
-   "label": "H1",
-   "showLabel": true
-  },
-  {
    "id": "l2qwr9yj",
    "k": "comp",
    "type": "DT",
-   "cx": 620,
-   "cy": 515,
+   "cx": 675,
+   "cy": 530,
    "w": 95,
    "rot": 0,
    "label": "DT1",
-   "showLabel": true
-  },
-  {
-   "id": "txtgnhkz",
-   "k": "comp",
-   "type": "VV1",
-   "cx": 435,
-   "cy": 515,
-   "w": 90,
-   "rot": 0,
-   "label": "VV1",
    "showLabel": true
   },
   {
@@ -135,11 +113,99 @@
    "rot": 0,
    "label": "L1",
    "showLabel": true
+  },
+  {
+   "id": "j5l1rr40",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 630,
+   "cy": 205,
+   "w": 110,
+   "rot": 0,
+   "label": "L2",
+   "showLabel": true
+  },
+  {
+   "id": "mwkpx338",
+   "k": "comp",
+   "type": "DVV",
+   "cx": 365,
+   "cy": 525,
+   "w": 110,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "g5jtxuv4",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 510,
+   "cy": 525,
+   "w": 90,
+   "rot": 0,
+   "label": "VV2",
+   "showLabel": true
+  },
+  {
+   "id": "vxatakdx",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 840,
+   "cy": 525,
+   "w": 90,
+   "rot": 0,
+   "label": "VV3",
+   "showLabel": true
+  },
+  {
+   "id": "s6kicucx",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 815,
+   "cy": 205,
+   "w": 110,
+   "rot": 0,
+   "label": "L3",
+   "showLabel": true
+  },
+  {
+   "id": "lweo28pm",
+   "k": "comp",
+   "type": "I2",
+   "cx": 34.23076923076923,
+   "cy": 499.8181818181818,
+   "w": 36.64335664335665,
+   "rot": 0,
+   "label": "I2",
+   "showLabel": true
+  },
+  {
+   "id": "nxyyzjki",
+   "k": "comp",
+   "type": "D2",
+   "cx": 61.71328671328672,
+   "cy": 499.8181818181818,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D2",
+   "showLabel": true
   }
  ],
  "tab": [],
  "fond": true,
- "tp": null,
+ "tp": {
+  "formation": "CAP / Bac Pro MELEC",
+  "duree": "4 h",
+  "date": "",
+  "objectif": "<ul><li>Lire et exploiter un schéma électrique.</li><li>Réaliser le câblage d’une installation conformément au schéma et à la NF C 15-100.</li><li>Effectuer les vérifications et les essais avant la mise en service.</li></ul>",
+  "situation": "<p>Dans le cadre de la rénovation d’un logement, votre responsable vous confie la réalisation de l’installation décrite par le schéma en annexe. Vous travaillez en autonomie sur la platine d’atelier.</p>",
+  "materiel": "<table class=\"t\"><tr><th class=\"n\">Qté</th><th>Désignation</th><th>Repères sur le schéma</th></tr><tr><td class=\"n\">2</td><td>Inter. différentiel 40A 30mA</td><td>I1, I2</td></tr><tr><td class=\"n\">2</td><td>Disjoncteur</td><td>D1, D2</td></tr><tr><td class=\"n\">1</td><td>Bornier N / Ph / T</td><td>X1</td></tr><tr><td class=\"n\">1</td><td>Châssis 3 rangées</td><td>CH1</td></tr><tr><td class=\"n\">2</td><td>Va-et-vient</td><td>VV2, VV3</td></tr><tr><td class=\"n\">3</td><td>Point lumineux DCL</td><td>L1, L2, L3</td></tr><tr><td class=\"n\">1</td><td>Boîte d’encastrement</td><td>B1</td></tr><tr><td class=\"n\">1</td><td>Double va-et-vient</td><td>VV1</td></tr><tr><td class=\"n\">1</td><td>Détecteur de mouvement</td><td>DT1</td></tr><tr><td class=\"n\">1</td><td>Compteur Linky</td><td>CPT1</td></tr><tr><td class=\"n\">1</td><td>Disjoncteur de branchement 500 mA</td><td>DB1</td></tr><tr><td class=\"n\">1</td><td>Panneau de contrôle (GTL)</td><td>GTL1</td></tr></table>\n    <p>Conducteurs H07V-U / H07V-R, embouts de câblage, goulotte, colliers, étiquettes de repérage.</p>",
+  "travail": "<p>À partir du schéma fourni en annexe, vous devez :</p><ol>\n    <li>Identifier chaque organe du schéma et vérifier le matériel mis à disposition.</li>\n    <li>Réaliser le câblage : commande de L1, L2 et L3 en va-et-vient depuis VV1, VV2 et VV3.</li><li>Réaliser le câblage : commande d’éclairage par détecteur de mouvement DT1 (bornes L, N et sortie 1 vers le point lumineux).</li><li>Réaliser le câblage : protection des personnes par l’interrupteur différentiel 30 mA I1 et I2, départs protégés par D1 et D2.</li><li>Réaliser le câblage : implantation des appareils modulaires sur le châssis (respect de l’ordre et des repères).</li>\n    <li>Repérer les conducteurs et les appareils conformément au schéma.</li>\n    <li>Effectuer les vérifications hors tension : continuité des conducteurs (dont le PE), absence de court-circuit, isolement.</li>\n    <li>Faire valider le câblage par le formateur, puis réaliser les essais de fonctionnement en sa présence.</li>\n    <li>Remettre le poste de travail en ordre et ranger l’outillage.</li></ol>",
+  "contraintes": "<p class=\"warn\"><b>Sécurité :</b> travail exclusivement hors tension. Aucune mise sous tension sans l’accord et la présence du formateur. Port des EPI obligatoire.</p>\n    <ul><li>Respecter le schéma et les repères (17 organes à câbler).</li>\n    <li>Couleurs normalisées : phase en rouge (ou marron/noir), neutre en bleu, conducteur de protection en vert/jaune, retours en violet ou orange.</li>\n    <li>Sections et protections selon la NF C 15-100 :</li></ul><table class=\"t\"><tr><th>Circuit</th><th>Section</th><th>Protection</th><th>Limite</th></tr><tr><td>Éclairage</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>8 points lumineux maxi</td></tr></table>\n    <ul><li>Qualité : dénudage à la bonne longueur, pas de cuivre apparent, serrage correct des bornes, conducteurs rangés en goulotte.</li>\n    <li>Durée : voir l’en-tête. Toute modification du schéma doit être validée par le formateur.</li></ul>",
+  "evaluation": "<table class=\"t\"><tr><th>Critère</th><th class=\"n\">Barème</th><th class=\"n\">Note</th></tr>\n      <tr><td>Respect du schéma et des repères</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Qualité du câblage (dénudage, serrage, rangement)</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Respect des couleurs et des sections</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><td>Sécurité et comportement au poste</td><td class=\"n\">/ 4</td><td></td></tr>\n      <tr><td>Vérifications, essais et fonctionnement</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><th>Total</th><th class=\"n\">/ 20</th><th></th></tr></table>",
+  "edited": false
+ },
  "uni": [],
  "multi": [],
  "cart": true,
