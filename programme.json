@@ -399,7 +399,7 @@
    ]
   },
   {
-   "theme": "Contacteur et horloge",
+   "theme": "Volets roulants et automatismes",
    "items": [
     {
      "type": "Cours",
@@ -439,7 +439,7 @@
    ]
   },
   {
-   "theme": "Volets roulants et automatismes",
+   "theme": "La Domotique et KNX",
    "items": [
     {
      "type": "Cours",
@@ -599,7 +599,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T10:09:32.435Z",
+ "updatedAt": "2026-11-19T10:10:19.735Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
