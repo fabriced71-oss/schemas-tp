@@ -1,8 +1,8 @@
 {
  "id": "5e5xqydk",
- "titre": "TP semaine 3 Horloge ",
+ "titre": "TP semaine 3 inter auto ",
  "semaine": 3,
- "updatedAt": "2026-11-19T11:34:10.778Z",
+ "updatedAt": "2026-11-19T11:35:09.066Z",
  "els": [
   {
    "id": "dsqd4rc9",
@@ -79,17 +79,6 @@
    "w": 18.321678321678323,
    "rot": 0,
    "label": "D1",
-   "showLabel": true
-  },
-  {
-   "id": "mq15xh45",
-   "k": "comp",
-   "type": "horloge",
-   "cx": 107.51748251748252,
-   "cy": 370.7272727272727,
-   "w": 36.64335664335665,
-   "rot": 0,
-   "label": "HP1",
    "showLabel": true
   }
  ],
