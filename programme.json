@@ -244,13 +244,7 @@
      ]
     },
     {
-     "cours": [
-      {
-       "id": "c_minuterie_s3",
-       "titre": "La minuterie : montages 3 fils et 4 fils (cours animé)",
-       "link": "https://claude.ai/artifact/SpRFU3uThQLLE1sYJcV9Yx"
-      }
-     ],
+     "cours": [],
      "fiches": []
     },
     {
@@ -642,7 +636,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T12:08:09.963Z",
+ "updatedAt": "2026-11-19T12:08:48.051Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
