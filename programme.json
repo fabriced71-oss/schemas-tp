@@ -213,14 +213,37 @@
   },
   {
    "theme": "Le télérupteur, minuterie ....Détecteur Automatique ",
-   "items": [],
+   "items": [
+    {
+     "type": "Cours",
+     "titre": "Le télérupteur : bobine et contact",
+     "cours": "c_telerupteur_s3"
+    },
+    {
+     "type": "Cours",
+     "titre": "La minuterie : montages 3 fils et 4 fils",
+     "cours": "c_minuterie_s3"
+    }
+   ],
    "days": [
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "c_telerupteur_s3",
+       "titre": "Le télérupteur : bobine et contact (cours animé)",
+       "link": "https://claude.ai/artifact/DMdBF5W8tCM8AMv8N5NyKA"
+      }
+     ],
      "fiches": []
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "c_minuterie_s3",
+       "titre": "La minuterie : montages 3 fils et 4 fils (cours animé)",
+       "link": "https://claude.ai/artifact/SpRFU3uThQLLE1sYJcV9Yx"
+      }
+     ],
      "fiches": []
     },
     {
