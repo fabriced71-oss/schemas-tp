@@ -227,6 +227,11 @@
     {
      "type": "Cours",
      "titre": "Nouveau cours"
+    },
+    {
+     "type": "Cours",
+     "titre": "Le détecteur automatique",
+     "cours": "c_detecteur_s3"
     }
    ],
    "days": [
@@ -265,6 +270,11 @@
        "id": "c_anim_hp_s3",
        "titre": "Animation – Horloge programmable",
        "anim": "hp"
+      },
+      {
+       "id": "c_detecteur_s3",
+       "titre": "Le détecteur automatique : réglages LUX/TIME, avec ou sans neutre (cours animé)",
+       "link": "https://claude.ai/artifact/D4qJWfofEPU2bDKxiVxwZX"
       }
      ],
      "fiches": []
@@ -634,7 +644,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T11:51:26.504Z",
+ "updatedAt": "2026-11-19T12:04:02.000Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
