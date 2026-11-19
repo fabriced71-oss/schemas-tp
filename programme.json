@@ -212,23 +212,11 @@
    ]
   },
   {
-   "theme": "Telerupteur, modulaire et ",
+   "theme": "Telerupteurs, ",
    "items": [
     {
      "type": "Cours",
      "titre": "Lecture de schémas : symboles normalisés"
-    },
-    {
-     "type": "Cours",
-     "titre": "Le permutateur"
-    },
-    {
-     "type": "TP",
-     "titre": "Va-et-vient avec permutateur"
-    },
-    {
-     "type": "Éval",
-     "titre": "QCM sécurité et bases"
     }
    ],
    "days": [
@@ -616,7 +604,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T09:51:12.847Z",
+ "updatedAt": "2026-11-19T09:52:29.343Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
