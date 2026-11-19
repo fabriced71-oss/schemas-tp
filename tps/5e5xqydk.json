@@ -2,7 +2,7 @@
  "id": "5e5xqydk",
  "titre": "TP semaine 3 inter auto ",
  "semaine": 3,
- "updatedAt": "2026-11-19T11:35:09.066Z",
+ "updatedAt": "2026-11-19T11:36:16.163Z",
  "els": [
   {
    "id": "dsqd4rc9",
@@ -79,6 +79,61 @@
    "w": 18.321678321678323,
    "rot": 0,
    "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "b5garbmt",
+   "k": "comp",
+   "type": "voyant",
+   "cx": 153.32167832167835,
+   "cy": 370.7272727272727,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "H1",
+   "showLabel": true
+  },
+  {
+   "id": "l2qwr9yj",
+   "k": "comp",
+   "type": "DT",
+   "cx": 620,
+   "cy": 515,
+   "w": 95,
+   "rot": 0,
+   "label": "DT1",
+   "showLabel": true
+  },
+  {
+   "id": "txtgnhkz",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 435,
+   "cy": 515,
+   "w": 90,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "vffocn4a",
+   "k": "comp",
+   "type": "boite",
+   "cx": 525,
+   "cy": 380,
+   "w": 100,
+   "rot": 0,
+   "label": "B1",
+   "showLabel": false
+  },
+  {
+   "id": "wl33onla",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 425,
+   "cy": 200,
+   "w": 110,
+   "rot": 0,
+   "label": "L1",
    "showLabel": true
   }
  ],
