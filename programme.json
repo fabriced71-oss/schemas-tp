@@ -232,13 +232,7 @@
    ],
    "days": [
     {
-     "cours": [
-      {
-       "id": "c_telerupteur_s3",
-       "titre": "Le télérupteur : bobine et contact (cours animé)",
-       "link": "https://claude.ai/artifact/DMdBF5W8tCM8AMv8N5NyKA"
-      }
-     ],
+     "cours": [],
      "fiches": [
       "5e5xqydk"
      ]
@@ -636,7 +630,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T12:08:48.051Z",
+ "updatedAt": "2026-11-19T12:09:08.866Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
