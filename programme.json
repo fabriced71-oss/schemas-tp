@@ -212,7 +212,7 @@
    ]
   },
   {
-   "theme": "",
+   "theme": "Le télérupteur, minuterie ....",
    "items": [],
    "days": [
     {
@@ -238,7 +238,7 @@
    ]
   },
   {
-   "theme": "Le télérupteur",
+   "theme": "",
    "items": [
     {
      "type": "Cours",
@@ -599,7 +599,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T10:04:43.303Z",
+ "updatedAt": "2026-11-19T10:06:14.011Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
