@@ -316,7 +316,7 @@
    ]
   },
   {
-   "theme": "Le tableau de répartition",
+   "theme": "Le tableau de répartition, Schémas unifilaire et multifilaire",
    "items": [
     {
      "type": "Cours",
@@ -359,7 +359,7 @@
    ]
   },
   {
-   "theme": "Schémas unifilaire et multifilaire",
+   "theme": "Les VMC ",
    "items": [
     {
      "type": "Cours",
@@ -599,7 +599,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T10:08:30.869Z",
+ "updatedAt": "2026-11-19T10:09:32.435Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
