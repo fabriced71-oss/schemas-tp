@@ -2,8 +2,24 @@
  "id": "5e5xqydk",
  "titre": "TP Examen blanc 1 Espace 1",
  "semaine": 3,
- "updatedAt": "2026-11-20T14:38:26.340Z",
+ "updatedAt": "2026-11-20T14:47:47.114Z",
  "els": [
+  {
+   "id": "za3h8et1",
+   "k": "wire",
+   "color": "niv",
+   "style": "line",
+   "pts": [
+    [
+     270,
+     635
+    ],
+    [
+     1105,
+     635
+    ]
+   ]
+  },
   {
    "id": "o1lnb9lg",
    "k": "wire",
