@@ -2,165 +2,21 @@
  "id": "5e5xqydk",
  "titre": "TP Examen blanc 1 Espace 1",
  "semaine": 3,
- "updatedAt": "2026-11-20T10:20:22.010Z",
+ "updatedAt": "2026-11-20T10:33:29.247Z",
  "els": [
   {
-   "id": "38mkp5yv",
+   "id": "o1lnb9lg",
    "k": "wire",
-   "color": "i25",
-   "style": "curve",
+   "color": "m12",
+   "style": "line",
    "pts": [
     [
-     485,
-     365
-    ],
-    [
-     320,
-     350
-    ],
-    [
-     260,
-     555
-    ]
-   ]
-  },
-  {
-   "id": "0a26s78r",
-   "k": "wire",
-   "color": "g16",
-   "style": "curve",
-   "pts": [
-    [
-     360,
-     495
-    ],
-    [
-     375,
-     395
-    ],
-    [
-     505,
-     405
-    ]
-   ]
-  },
-  {
-   "id": "0h0o2064",
-   "k": "wire",
-   "color": "g16",
-   "style": "curve",
-   "pts": [
-    [
-     515,
-     485
-    ],
-    [
-     485,
-     460
-    ],
-    [
-     505,
-     420
-    ]
-   ]
-  },
-  {
-   "id": "cvfnqvx5",
-   "k": "wire",
-   "color": "g16",
-   "style": "curve",
-   "pts": [
-    [
-     655,
-     480
-    ],
-    [
-     650,
-     435
+     265,
+     595
     ],
     [
      565,
-     415
-    ]
-   ]
-  },
-  {
-   "id": "tzgu6ylp",
-   "k": "wire",
-   "color": "g16",
-   "style": "curve",
-   "pts": [
-    [
-     810,
-     485
-    ],
-    [
-     805,
-     405
-    ],
-    [
-     575,
-     390
-    ]
-   ]
-  },
-  {
-   "id": "7kcpr3ah",
-   "k": "wire",
-   "color": "g16",
-   "style": "curve",
-   "pts": [
-    [
-     780,
-     260
-    ],
-    [
-     765,
-     345
-    ],
-    [
-     570,
-     355
-    ]
-   ]
-  },
-  {
-   "id": "h3vnx0tp",
-   "k": "wire",
-   "color": "g16",
-   "style": "curve",
-   "pts": [
-    [
-     605,
-     265
-    ],
-    [
-     530,
-     295
-    ],
-    [
-     515,
-     335
-    ]
-   ]
-  },
-  {
-   "id": "64wgbxuj",
-   "k": "wire",
-   "color": "g16",
-   "style": "curve",
-   "pts": [
-    [
-     405,
-     265
-    ],
-    [
-     450,
-     320
-    ],
-    [
-     500,
-     355
+     595
     ]
    ]
   },
@@ -231,33 +87,11 @@
    "showLabel": true
   },
   {
-   "id": "eoyt1dp3",
-   "k": "comp",
-   "type": "D2",
-   "cx": 61.71328671328672,
-   "cy": 370.7272727272727,
-   "w": 18.321678321678323,
-   "rot": 0,
-   "label": "D1",
-   "showLabel": true
-  },
-  {
-   "id": "l2qwr9yj",
-   "k": "comp",
-   "type": "DT",
-   "cx": 675,
-   "cy": 530,
-   "w": 95,
-   "rot": 0,
-   "label": "DT1",
-   "showLabel": true
-  },
-  {
    "id": "vffocn4a",
    "k": "comp",
    "type": "boite",
-   "cx": 525,
-   "cy": 380,
+   "cx": 575,
+   "cy": 400,
    "w": 100,
    "rot": 0,
    "label": "B1",
@@ -267,8 +101,8 @@
    "id": "wl33onla",
    "k": "comp",
    "type": "lampe",
-   "cx": 425,
-   "cy": 200,
+   "cx": 435,
+   "cy": 260,
    "w": 110,
    "rot": 0,
    "label": "L1",
@@ -278,52 +112,19 @@
    "id": "j5l1rr40",
    "k": "comp",
    "type": "lampe",
-   "cx": 630,
-   "cy": 205,
+   "cx": 595,
+   "cy": 140,
    "w": 110,
    "rot": 0,
    "label": "L2",
    "showLabel": true
   },
   {
-   "id": "mwkpx338",
-   "k": "comp",
-   "type": "DVV",
-   "cx": 365,
-   "cy": 525,
-   "w": 110,
-   "rot": 0,
-   "label": "VV1",
-   "showLabel": true
-  },
-  {
-   "id": "g5jtxuv4",
-   "k": "comp",
-   "type": "VV1",
-   "cx": 510,
-   "cy": 525,
-   "w": 90,
-   "rot": 0,
-   "label": "VV2",
-   "showLabel": true
-  },
-  {
-   "id": "vxatakdx",
-   "k": "comp",
-   "type": "VV1",
-   "cx": 840,
-   "cy": 525,
-   "w": 90,
-   "rot": 0,
-   "label": "VV3",
-   "showLabel": true
-  },
-  {
    "id": "s6kicucx",
    "k": "comp",
    "type": "lampe",
-   "cx": 815,
-   "cy": 205,
+   "cx": 735,
+   "cy": 260,
    "w": 110,
    "rot": 0,
    "label": "L3",
@@ -341,14 +142,36 @@
    "showLabel": true
   },
   {
-   "id": "nxyyzjki",
+   "id": "hml1bb7v",
    "k": "comp",
-   "type": "D2",
-   "cx": 61.71328671328672,
-   "cy": 499.8181818181818,
-   "w": 18.321678321678323,
+   "type": "VV1",
+   "cx": 710,
+   "cy": 485,
+   "w": 90,
    "rot": 0,
-   "label": "D2",
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "qp3z0p3f",
+   "k": "comp",
+   "type": "P_vv",
+   "cx": 370,
+   "cy": 560,
+   "w": 100,
+   "rot": 0,
+   "label": "VV2",
+   "showLabel": true
+  },
+  {
+   "id": "4i2odnlo",
+   "k": "comp",
+   "type": "P_prise",
+   "cx": 525,
+   "cy": 560,
+   "w": 100,
+   "rot": 0,
+   "label": "PC1",
    "showLabel": true
   }
  ],
