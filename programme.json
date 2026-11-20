@@ -114,6 +114,11 @@
    "items": [
     {
      "type": "Cours",
+     "titre": "Sens du courant et sens des électrons",
+     "cours": "c_courant_s2"
+    },
+    {
+     "type": "Cours",
      "titre": "Tension, courant, résistance : la loi d’Ohm",
      "cours": "c_ohm_s2"
     },
@@ -146,6 +151,11 @@
        "ftype": "application/pdf",
        "size": 1087916,
        "bundled": "ohm"
+      },
+      {
+       "id": "c_courant_s2",
+       "slides": "courant",
+       "titre": "Sens du courant et sens des électrons – cours animé (diapositives)"
       }
      ],
      "fiches": [
@@ -238,7 +248,13 @@
      ]
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "c_courant_s2",
+       "slides": "courant",
+       "titre": "Sens du courant et sens des électrons – cours animé (diapositives)"
+      }
+     ],
      "fiches": []
     },
     {
@@ -630,7 +646,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T12:09:08.866Z",
+ "updatedAt": "2026-11-20T10:05:55.841Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
@@ -642,6 +658,7 @@
   "c_qcm_s2_sujet",
   "c_qcm_s2_corrige",
   "c_horloge_s3",
-  "c_anim_hp_s3"
+  "c_anim_hp_s3",
+  "c_courant_s2"
  ]
 }
