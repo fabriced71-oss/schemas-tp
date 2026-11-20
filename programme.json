@@ -243,9 +243,7 @@
    "days": [
     {
      "cours": [],
-     "fiches": [
-      "5e5xqydk"
-     ]
+     "fiches": []
     },
     {
      "cours": [
@@ -646,7 +644,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-20T10:05:55.841Z",
+ "updatedAt": "2026-11-20T10:13:05.372Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
