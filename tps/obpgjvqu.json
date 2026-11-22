@@ -2,7 +2,7 @@
  "id": "obpgjvqu",
  "titre": "Nouveau TP",
  "semaine": 2,
- "updatedAt": "2026-11-22T19:56:22.603Z",
+ "updatedAt": "2026-11-22T19:58:10.678Z",
  "els": [
   {
    "id": "wmzscc76",
@@ -46,6 +46,105 @@
    "w": 36.64335664335665,
    "rot": 0,
    "label": "HP1",
+   "showLabel": true
+  },
+  {
+   "id": "ht3ymre5",
+   "k": "comp",
+   "type": "GTL",
+   "cx": 130,
+   "cy": 130,
+   "w": 220,
+   "rot": 0,
+   "label": "GTL1",
+   "showLabel": true
+  },
+  {
+   "id": "rgmb939d",
+   "k": "comp",
+   "type": "linky",
+   "cx": 95,
+   "cy": 135,
+   "w": 105,
+   "rot": 0,
+   "label": "CPT1",
+   "showLabel": true
+  },
+  {
+   "id": "s55jo7au",
+   "k": "comp",
+   "type": "DB",
+   "cx": 185,
+   "cy": 130,
+   "w": 55,
+   "rot": 0,
+   "label": "DB1",
+   "showLabel": true
+  },
+  {
+   "id": "sewh63wq",
+   "k": "comp",
+   "type": "boite",
+   "cx": 590,
+   "cy": 280,
+   "w": 173,
+   "rot": 0,
+   "label": "B1",
+   "showLabel": false
+  },
+  {
+   "id": "6keupxw6",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 420,
+   "cy": 140,
+   "w": 110,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "ebs1i87c",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 770,
+   "cy": 145,
+   "w": 110,
+   "rot": 0,
+   "label": "L2",
+   "showLabel": true
+  },
+  {
+   "id": "gr5txgkq",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 440,
+   "cy": 485,
+   "w": 90,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "2sche6ix",
+   "k": "comp",
+   "type": "BP",
+   "cx": 610,
+   "cy": 485,
+   "w": 90,
+   "rot": 0,
+   "label": "BP1",
+   "showLabel": true
+  },
+  {
+   "id": "yxtxe1i9",
+   "k": "comp",
+   "type": "DT",
+   "cx": 785,
+   "cy": 505,
+   "w": 95,
+   "rot": 0,
+   "label": "DT1",
    "showLabel": true
   }
  ],
