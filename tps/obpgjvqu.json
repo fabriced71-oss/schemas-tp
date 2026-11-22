@@ -1,0 +1,60 @@
+{
+ "id": "obpgjvqu",
+ "titre": "Nouveau TP",
+ "semaine": 2,
+ "updatedAt": "2026-11-22T19:56:22.603Z",
+ "els": [
+  {
+   "id": "wmzscc76",
+   "k": "comp",
+   "type": "chassis",
+   "cx": 145,
+   "cy": 480,
+   "w": 260,
+   "rot": 0,
+   "label": "CH1",
+   "showLabel": true
+  },
+  {
+   "id": "rghmxkkk",
+   "k": "comp",
+   "type": "I2",
+   "cx": 44.23076923076923,
+   "cy": 350.7272727272727,
+   "w": 36.64335664335665,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "prd8xvhj",
+   "k": "comp",
+   "type": "D2",
+   "cx": 71.71328671328672,
+   "cy": 350.7272727272727,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "vcyae4ii",
+   "k": "comp",
+   "type": "horloge",
+   "cx": 99.1958041958042,
+   "cy": 350.7272727272727,
+   "w": 36.64335664335665,
+   "rot": 0,
+   "label": "HP1",
+   "showLabel": true
+  }
+ ],
+ "tab": [],
+ "fond": true,
+ "tp": null,
+ "uni": [],
+ "multi": [],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": ""
+}
