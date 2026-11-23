@@ -238,6 +238,11 @@
      "type": "Cours",
      "titre": "Le détecteur automatique",
      "cours": "c_detecteur_s3"
+    },
+    {
+     "type": "Cours",
+     "titre": "Les lois de l’électricité : Ohm, nœuds et mailles",
+     "cours": "c_lois_s3"
     }
    ],
    "days": [
@@ -279,6 +284,11 @@
        "id": "c_detecteur_s3",
        "titre": "Le détecteur automatique : réglages LUX/TIME, avec ou sans neutre (cours animé)",
        "link": "https://claude.ai/artifact/D4qJWfofEPU2bDKxiVxwZX"
+      },
+      {
+       "id": "c_lois_s3",
+       "titre": "Les lois de l’électricité : Ohm, nœuds et mailles (cours animé)",
+       "link": "https://claude.ai/artifact/AMQkS3mZXohbbsJVcaRdoY"
       }
      ],
      "fiches": []
@@ -648,7 +658,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-22T19:55:21.757Z",
+ "updatedAt": "2026-11-23T09:02:09.000Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
