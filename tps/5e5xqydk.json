@@ -2,7 +2,7 @@
  "id": "5e5xqydk",
  "titre": "TP Examen blanc 1 Espace 1",
  "semaine": 3,
- "updatedAt": "2026-11-23T09:08:24.328Z",
+ "updatedAt": "2026-11-23T09:10:03.562Z",
  "els": [
   {
    "id": "za3h8et1",
@@ -366,6 +366,72 @@
    "rot": 0,
    "label": "D4",
    "showLabel": true
+  },
+  {
+   "id": "rbgwfquw",
+   "k": "comp",
+   "type": "I2",
+   "cx": 34.23076923076923,
+   "cy": 628.9090909090909,
+   "w": 36.64335664335665,
+   "rot": 0,
+   "label": "I3",
+   "showLabel": true
+  },
+  {
+   "id": "wgj6dkzt",
+   "k": "comp",
+   "type": "D2",
+   "cx": 61.71328671328672,
+   "cy": 628.9090909090909,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D5",
+   "showLabel": true
+  },
+  {
+   "id": "iwaohm32",
+   "k": "comp",
+   "type": "D2",
+   "cx": 80.03496503496504,
+   "cy": 628.9090909090909,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D6",
+   "showLabel": true
+  },
+  {
+   "id": "484q67y1",
+   "k": "comp",
+   "type": "D2",
+   "cx": 98.35664335664336,
+   "cy": 628.9090909090909,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D7",
+   "showLabel": true
+  },
+  {
+   "id": "xhm731rz",
+   "k": "comp",
+   "type": "D2",
+   "cx": 116.67832167832168,
+   "cy": 628.9090909090909,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D8",
+   "showLabel": true
+  },
+  {
+   "id": "t47bgg5n",
+   "k": "comp",
+   "type": "TL",
+   "cx": 135.00000000000003,
+   "cy": 628.9090909090909,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "TL3",
+   "showLabel": true
   }
  ],
  "tab": [],
@@ -376,9 +442,9 @@
   "date": "",
   "objectif": "<ul><li>Lire et exploiter un schéma électrique.</li><li>Réaliser le câblage d’une installation conformément au schéma et à la NF C 15-100.</li><li>Effectuer les vérifications et les essais avant la mise en service.</li></ul>",
   "situation": "<p>Dans le cadre de la rénovation d’un logement, votre responsable vous confie la réalisation de l’installation décrite par le schéma en annexe. Vous travaillez en autonomie sur la platine d’atelier.</p>",
-  "materiel": "<table class=\"t\"><tr><th class=\"n\">Qté</th><th>Désignation</th><th>Repères sur le schéma</th></tr><tr><td class=\"n\">2</td><td>Inter. différentiel 40A 30mA</td><td>I1, I2</td></tr><tr><td class=\"n\">4</td><td>Disjoncteur</td><td>D1, D2, D3, D4</td></tr><tr><td class=\"n\">1</td><td>Bornier N / Ph / T</td><td>X1</td></tr><tr><td class=\"n\">1</td><td>Châssis 3 rangées</td><td>CH1</td></tr><tr><td class=\"n\">3</td><td>Bouton poussoir</td><td>BP1, BP2, BP3</td></tr><tr><td class=\"n\">1</td><td>Va-et-vient</td><td>VV1</td></tr><tr><td class=\"n\">1</td><td>Prise 2P+T</td><td>PC2</td></tr><tr><td class=\"n\">3</td><td>Point lumineux DCL</td><td>L1, L2, L3</td></tr><tr><td class=\"n\">1</td><td>Boîte d’encastrement</td><td>B1</td></tr><tr><td class=\"n\">1</td><td>Va-et-vient Plexo</td><td>VV2</td></tr><tr><td class=\"n\">1</td><td>Prise 2P+T Plexo</td><td>PC1</td></tr><tr><td class=\"n\">1</td><td>Compteur Linky</td><td>CPT1</td></tr><tr><td class=\"n\">1</td><td>Disjoncteur de branchement 500 mA</td><td>DB1</td></tr><tr><td class=\"n\">1</td><td>Panneau de contrôle (GTL)</td><td>GTL1</td></tr><tr><td class=\"n\">1</td><td>Hublot étanche</td><td>L4</td></tr><tr><td class=\"n\">2</td><td>Télérupteur encastrable</td><td>TL1, TL2</td></tr><tr><td class=\"n\">3</td><td>Module récepteur pour inter sans fil</td><td>RX1, RX2, RX3</td></tr></table>\n    <p>Conducteurs H07V-U / H07V-R, embouts de câblage, goulotte, colliers, étiquettes de repérage. Moulures : 16×12 (1 tronçon).</p>",
-  "travail": "<p>À partir du schéma fourni en annexe, vous devez :</p><ol>\n    <li>Identifier chaque organe du schéma et vérifier le matériel mis à disposition.</li>\n    <li>Réaliser le câblage : commande de L1, L2, L3 et L4 par télérupteur TL1 et TL2 depuis 3 boutons poussoirs (BP1, BP2 et BP3).</li><li>Réaliser le câblage : circuit prises de courant 2P+T : PC1 et PC2.</li><li>Réaliser le câblage : protection des personnes par l’interrupteur différentiel 30 mA I1 et I2, départs protégés par D1, D2, D3 et D4.</li><li>Réaliser le câblage : implantation des appareils modulaires sur le châssis (respect de l’ordre et des repères).</li>\n    <li>Repérer les conducteurs et les appareils conformément au schéma.</li>\n    <li>Effectuer les vérifications hors tension : continuité des conducteurs (dont le PE), absence de court-circuit, isolement.</li>\n    <li>Faire valider le câblage par le formateur, puis réaliser les essais de fonctionnement en sa présence.</li>\n    <li>Remettre le poste de travail en ordre et ranger l’outillage.</li></ol>",
-  "contraintes": "<p class=\"warn\"><b>Sécurité :</b> travail exclusivement hors tension. Aucune mise sous tension sans l’accord et la présence du formateur. Port des EPI obligatoire.</p>\n    <ul><li>Respecter le schéma et les repères (28 organes à câbler).</li>\n    <li>Couleurs normalisées : phase en rouge (ou marron/noir), neutre en bleu, conducteur de protection en vert/jaune, retours en violet ou orange.</li>\n    <li>Sections et protections selon la NF C 15-100 :</li></ul><table class=\"t\"><tr><th>Circuit</th><th>Section</th><th>Protection</th><th>Limite</th></tr><tr><td>Éclairage</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>8 points lumineux maxi</td></tr><tr><td>Prises 16 A</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>5 socles maxi</td></tr><tr><td>Prises 16 A</td><td>2,5 mm²</td><td>Disjoncteur 20 A</td><td>8 socles maxi</td></tr></table>\n    <ul><li>Qualité : dénudage à la bonne longueur, pas de cuivre apparent, serrage correct des bornes, conducteurs rangés en goulotte.</li>\n    <li>Durée : voir l’en-tête. Toute modification du schéma doit être validée par le formateur.</li></ul>",
+  "materiel": "<table class=\"t\"><tr><th class=\"n\">Qté</th><th>Désignation</th><th>Repères sur le schéma</th></tr><tr><td class=\"n\">2</td><td>Inter. différentiel 40A 30mA</td><td>I1, I2</td></tr><tr><td class=\"n\">4</td><td>Disjoncteur</td><td>D1, D2, D3, D4</td></tr><tr><td class=\"n\">1</td><td>Contacteur 25A</td><td>KM1</td></tr><tr><td class=\"n\">1</td><td>Bornier N / Ph / T</td><td>X1</td></tr><tr><td class=\"n\">1</td><td>Châssis 3 rangées</td><td>CH1</td></tr><tr><td class=\"n\">3</td><td>Bouton poussoir</td><td>BP1, BP2, BP3</td></tr><tr><td class=\"n\">1</td><td>Va-et-vient</td><td>VV1</td></tr><tr><td class=\"n\">1</td><td>Prise 2P+T</td><td>PC2</td></tr><tr><td class=\"n\">1</td><td>Sortie de câble</td><td>SC1</td></tr><tr><td class=\"n\">3</td><td>Point lumineux DCL</td><td>L1, L2, L3</td></tr><tr><td class=\"n\">1</td><td>Boîte d’encastrement</td><td>B1</td></tr><tr><td class=\"n\">1</td><td>Va-et-vient Plexo</td><td>VV2</td></tr><tr><td class=\"n\">1</td><td>Prise 2P+T Plexo</td><td>PC1</td></tr><tr><td class=\"n\">1</td><td>Compteur Linky</td><td>CPT1</td></tr><tr><td class=\"n\">1</td><td>Disjoncteur de branchement 500 mA</td><td>DB1</td></tr><tr><td class=\"n\">1</td><td>Panneau de contrôle (GTL)</td><td>GTL1</td></tr><tr><td class=\"n\">1</td><td>Hublot étanche</td><td>L4</td></tr><tr><td class=\"n\">2</td><td>Télérupteur encastrable</td><td>TL1, TL2</td></tr><tr><td class=\"n\">3</td><td>Module récepteur pour inter sans fil</td><td>RX1, RX2, RX3</td></tr></table>\n    <p>Conducteurs H07V-U / H07V-R, embouts de câblage, goulotte, colliers, étiquettes de repérage. Moulures : 16×12 (1 tronçon).</p>",
+  "travail": "<p>À partir du schéma fourni en annexe, vous devez :</p><ol>\n    <li>Identifier chaque organe du schéma et vérifier le matériel mis à disposition.</li>\n    <li>Réaliser le câblage : commande de L1, L2, L3 et L4 par télérupteur TL1 et TL2 depuis 3 boutons poussoirs (BP1, BP2 et BP3).</li><li>Réaliser le câblage : commande du contacteur KM1.</li><li>Réaliser le câblage : circuit prises de courant 2P+T : PC1 et PC2.</li><li>Réaliser le câblage : raccordement de la sortie de câble SC1 (L, N, PE).</li><li>Réaliser le câblage : protection des personnes par l’interrupteur différentiel 30 mA I1 et I2, départs protégés par D1, D2, D3 et D4.</li><li>Réaliser le câblage : implantation des appareils modulaires sur le châssis (respect de l’ordre et des repères).</li>\n    <li>Repérer les conducteurs et les appareils conformément au schéma.</li>\n    <li>Effectuer les vérifications hors tension : continuité des conducteurs (dont le PE), absence de court-circuit, isolement.</li>\n    <li>Faire valider le câblage par le formateur, puis réaliser les essais de fonctionnement en sa présence.</li>\n    <li>Remettre le poste de travail en ordre et ranger l’outillage.</li></ol>",
+  "contraintes": "<p class=\"warn\"><b>Sécurité :</b> travail exclusivement hors tension. Aucune mise sous tension sans l’accord et la présence du formateur. Port des EPI obligatoire.</p>\n    <ul><li>Respecter le schéma et les repères (30 organes à câbler).</li>\n    <li>Couleurs normalisées : phase en rouge (ou marron/noir), neutre en bleu, conducteur de protection en vert/jaune, retours en violet ou orange.</li>\n    <li>Sections et protections selon la NF C 15-100 :</li></ul><table class=\"t\"><tr><th>Circuit</th><th>Section</th><th>Protection</th><th>Limite</th></tr><tr><td>Éclairage</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>8 points lumineux maxi</td></tr><tr><td>Prises 16 A</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>5 socles maxi</td></tr><tr><td>Prises 16 A</td><td>2,5 mm²</td><td>Disjoncteur 20 A</td><td>8 socles maxi</td></tr></table>\n    <ul><li>Qualité : dénudage à la bonne longueur, pas de cuivre apparent, serrage correct des bornes, conducteurs rangés en goulotte.</li>\n    <li>Durée : voir l’en-tête. Toute modification du schéma doit être validée par le formateur.</li></ul>",
   "evaluation": "<table class=\"t\"><tr><th>Critère</th><th class=\"n\">Barème</th><th class=\"n\">Note</th></tr>\n      <tr><td>Respect du schéma et des repères</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Qualité du câblage (dénudage, serrage, rangement)</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Respect des couleurs et des sections</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><td>Sécurité et comportement au poste</td><td class=\"n\">/ 4</td><td></td></tr>\n      <tr><td>Vérifications, essais et fonctionnement</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><th>Total</th><th class=\"n\">/ 20</th><th></th></tr></table>",
   "edited": false,
   "pages": {
