@@ -52,5 +52,11 @@
   "titre": "Espace 1 – Équipement d’un logement",
   "semaine": 4,
   "updatedAt": "2026-11-23T11:48:51.048Z"
+ },
+ {
+  "id": "tp_s4_espace2",
+  "titre": "Espace 2 – Parties communes de l’immeuble",
+  "semaine": 4,
+  "updatedAt": "2026-11-23T11:48:51.591Z"
  }
 ]
