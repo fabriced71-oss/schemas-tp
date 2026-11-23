@@ -2,7 +2,7 @@
  "id": "5e5xqydk",
  "titre": "TP Examen blanc 1 Espace 1",
  "semaine": 3,
- "updatedAt": "2026-11-20T14:49:21.826Z",
+ "updatedAt": "2026-11-23T09:08:24.328Z",
  "els": [
   {
    "id": "za3h8et1",
@@ -225,28 +225,6 @@
    "showLabel": true
   },
   {
-   "id": "rjubiy2r",
-   "k": "comp",
-   "type": "D2",
-   "cx": 98.35664335664336,
-   "cy": 370.7272727272727,
-   "w": 18.321678321678323,
-   "rot": 0,
-   "label": "D3",
-   "showLabel": true
-  },
-  {
-   "id": "cg2886k8",
-   "k": "comp",
-   "type": "D2",
-   "cx": 61.71328671328672,
-   "cy": 499.8181818181818,
-   "w": 18.321678321678323,
-   "rot": 0,
-   "label": "D4",
-   "showLabel": true
-  },
-  {
    "id": "avklws5t",
    "k": "comp",
    "type": "TLe",
@@ -343,6 +321,50 @@
    "w": 29,
    "rot": 0,
    "label": "RX3",
+   "showLabel": true
+  },
+  {
+   "id": "jy50zd4i",
+   "k": "comp",
+   "type": "sortie",
+   "cx": 800,
+   "cy": 705,
+   "w": 90,
+   "rot": 0,
+   "label": "SC1",
+   "showLabel": true
+  },
+  {
+   "id": "vzy1o8h8",
+   "k": "comp",
+   "type": "KM",
+   "cx": 98.35664335664336,
+   "cy": 499.8181818181818,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "KM1",
+   "showLabel": true
+  },
+  {
+   "id": "4zjhm54i",
+   "k": "comp",
+   "type": "D2",
+   "cx": 61.71328671328672,
+   "cy": 499.8181818181818,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D3",
+   "showLabel": true
+  },
+  {
+   "id": "rna1jo8u",
+   "k": "comp",
+   "type": "D2",
+   "cx": 80.03496503496504,
+   "cy": 499.8181818181818,
+   "w": 18.321678321678323,
+   "rot": 0,
+   "label": "D4",
    "showLabel": true
   }
  ],
