@@ -2,36 +2,41 @@
  "id": "tp_s4_espace3",
  "titre": "Espace 3 – Surface commerciale « Plazza »",
  "semaine": 4,
- "updatedAt": "2026-11-23T11:53:57.048Z",
+ "updatedAt": "2026-11-23T12:58:46.199Z",
  "els": [
+  {
+   "id": "xjcyi3ze",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     65,
+     460
+    ],
+    [
+     65,
+     270
+    ]
+   ]
+  },
   {
    "id": "e4x081",
    "k": "comp",
    "type": "BDE",
-   "cx": 450,
-   "cy": 235,
+   "cx": 440,
+   "cy": 225,
    "w": 110,
    "rot": 0,
    "label": "B1",
    "showLabel": true
   },
   {
-   "id": "e4x082",
-   "k": "comp",
-   "type": "lampe",
-   "cx": 640,
-   "cy": 420,
-   "w": 80,
-   "rot": 0,
-   "label": "A6",
-   "showLabel": true
-  },
-  {
    "id": "e4x083",
    "k": "comp",
    "type": "DMI",
-   "cx": 930,
-   "cy": 330,
+   "cx": 60,
+   "cy": 490,
    "w": 62,
    "rot": 0,
    "label": "S02",
@@ -71,33 +76,11 @@
    "showLabel": true
   },
   {
-   "id": "e4x087",
-   "k": "comp",
-   "type": "DT",
-   "cx": 150,
-   "cy": 540,
-   "w": 50,
-   "rot": 0,
-   "label": "Al1",
-   "showLabel": true
-  },
-  {
-   "id": "e4x088",
-   "k": "comp",
-   "type": "M_au_nc",
-   "cx": 450,
-   "cy": 470,
-   "w": 40,
-   "rot": 0,
-   "label": "A5",
-   "showLabel": true
-  },
-  {
    "id": "e4x089",
    "k": "comp",
    "type": "prise",
-   "cx": 260,
-   "cy": 640,
+   "cx": 205,
+   "cy": 700,
    "w": 60,
    "rot": 0,
    "label": "A1",
@@ -107,8 +90,8 @@
    "id": "e4x090",
    "k": "comp",
    "type": "prise",
-   "cx": 700,
-   "cy": 640,
+   "cx": 695,
+   "cy": 715,
    "w": 60,
    "rot": 0,
    "label": "A2",
@@ -122,7 +105,7 @@
    "pts": [
     [
      450,
-     300
+     260
     ],
     [
      450,
@@ -137,12 +120,12 @@
    "style": "line",
    "pts": [
     [
-     220,
-     640
+     185,
+     635
     ],
     [
-     760,
-     640
+     725,
+     635
     ]
    ]
   },
@@ -205,16 +188,16 @@
    "style": "line",
    "pts": [
     [
-     505,
-     250
+     485,
+     255
     ],
     [
-     640,
-     250
+     620,
+     255
     ],
     [
-     640,
-     370
+     620,
+     375
     ]
    ]
   },
@@ -225,36 +208,16 @@
    "style": "line",
    "pts": [
     [
-     505,
-     220
-    ],
-    [
-     930,
-     220
-    ],
-    [
-     930,
-     300
-    ]
-   ]
-  },
-  {
-   "id": "e4x098",
-   "k": "wire",
-   "color": "i16",
-   "style": "line",
-   "pts": [
-    [
-     505,
+     495,
      205
     ],
     [
-     820,
+     745,
      205
     ],
     [
-     820,
-     160
+     745,
+     285
     ]
    ]
   },
@@ -446,8 +409,8 @@
   {
    "id": "e4x114",
    "k": "text",
-   "x": 470,
-   "y": 470,
+   "x": 520,
+   "y": 510,
    "size": 10,
    "bold": false,
    "text": "A5 arrêt d’urgence"
@@ -469,6 +432,39 @@
    "size": 10,
    "bold": false,
    "text": "A4 détecteur (2 fils)"
+  },
+  {
+   "id": "d0avl3pd",
+   "k": "comp",
+   "type": "BAES",
+   "cx": 755,
+   "cy": 330,
+   "w": 150,
+   "rot": 0,
+   "label": "BAES1",
+   "showLabel": true
+  },
+  {
+   "id": "ate1oja3",
+   "k": "comp",
+   "type": "AUs",
+   "cx": 460,
+   "cy": 465,
+   "w": 36,
+   "rot": 0,
+   "label": "AU1",
+   "showLabel": true
+  },
+  {
+   "id": "s91xezr5",
+   "k": "comp",
+   "type": "P_douille",
+   "cx": 615,
+   "cy": 410,
+   "w": 100,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
   }
  ],
  "tab": [],
