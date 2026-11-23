@@ -2,7 +2,7 @@
  "id": "tp_s4_espace3",
  "titre": "Espace 3 – Surface commerciale « Plazza »",
  "semaine": 4,
- "updatedAt": "2026-11-23T11:48:53.214Z",
+ "updatedAt": "2026-11-23T11:52:40.265Z",
  "els": [
   {
    "id": "e4x081",
@@ -52,8 +52,8 @@
    "id": "e4x085",
    "k": "comp",
    "type": "RJ45",
-   "cx": 330,
-   "cy": 385,
+   "cx": 260,
+   "cy": 410,
    "w": 52,
    "rot": 0,
    "label": "A3",
@@ -190,7 +190,7 @@
    "pts": [
     [
      330,
-     410
+     355
     ],
     [
      330,
