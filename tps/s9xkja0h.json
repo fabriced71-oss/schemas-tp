@@ -1,0 +1,30 @@
+{
+ "id": "s9xkja0h",
+ "titre": "TP Examen ",
+ "semaine": 4,
+ "updatedAt": "2026-11-23T15:01:28.200Z",
+ "els": [
+  {
+   "id": "mok2tke2",
+   "k": "comp",
+   "type": "PL_e2_impl",
+   "cx": 361.5,
+   "cy": 662,
+   "w": 885,
+   "rot": 0,
+   "label": "",
+   "showLabel": false
+  }
+ ],
+ "tab": [],
+ "fond": true,
+ "tp": null,
+ "uni": [],
+ "multi": [],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": "",
+ "orient": {
+  "els": "port"
+ }
+}
