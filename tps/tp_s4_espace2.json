@@ -2,15 +2,47 @@
  "id": "tp_s4_espace2",
  "titre": "Espace 2 – Parties communes de l’immeuble",
  "semaine": 4,
- "updatedAt": "2026-11-23T11:48:52.189Z",
+ "updatedAt": "2026-11-23T11:51:52.509Z",
  "els": [
+  {
+   "id": "49wmeo7a",
+   "k": "wire",
+   "color": "i25",
+   "style": "line",
+   "pts": [
+    [
+     575,
+     340
+    ],
+    [
+     575,
+     210
+    ]
+   ]
+  },
+  {
+   "id": "u5etseho",
+   "k": "wire",
+   "color": "i25",
+   "style": "line",
+   "pts": [
+    [
+     545,
+     335
+    ],
+    [
+     545,
+     200
+    ]
+   ]
+  },
   {
    "id": "e4x049",
    "k": "comp",
    "type": "BDE",
-   "cx": 980,
-   "cy": 175,
-   "w": 110,
+   "cx": 560,
+   "cy": 160,
+   "w": 138,
    "rot": 0,
    "label": "",
    "showLabel": false
@@ -35,39 +67,6 @@
    "w": 80,
    "rot": 0,
    "label": "L1",
-   "showLabel": true
-  },
-  {
-   "id": "e4x052",
-   "k": "comp",
-   "type": "P_douille",
-   "cx": 720,
-   "cy": 195,
-   "w": 80,
-   "rot": 0,
-   "label": "L2",
-   "showLabel": true
-  },
-  {
-   "id": "e4x053",
-   "k": "comp",
-   "type": "P_boite",
-   "cx": 560,
-   "cy": 370,
-   "w": 90,
-   "rot": 0,
-   "label": "B1",
-   "showLabel": true
-  },
-  {
-   "id": "e4x054",
-   "k": "comp",
-   "type": "P_boite",
-   "cx": 820,
-   "cy": 370,
-   "w": 90,
-   "rot": 0,
-   "label": "B2",
    "showLabel": true
   },
   {
@@ -113,26 +112,6 @@
    "rot": 0,
    "label": "A3",
    "showLabel": true
-  },
-  {
-   "id": "e4x059",
-   "k": "wire",
-   "color": "i25",
-   "style": "line",
-   "pts": [
-    [
-     925,
-     175
-    ],
-    [
-     560,
-     175
-    ],
-    [
-     560,
-     325
-    ]
-   ]
   },
   {
    "id": "e4x060",
@@ -334,8 +313,8 @@
   {
    "id": "e4x073",
    "k": "text",
-   "x": 700,
-   "y": 165,
+   "x": 655,
+   "y": 130,
    "size": 11,
    "bold": true,
    "text": "C01"
@@ -402,6 +381,39 @@
    "size": 11,
    "bold": false,
    "text": "L1, L2 sur la minuterie C2 · A4 sur le circuit PC C3 · raccordement à la source uniquement en présence du formateur"
+  },
+  {
+   "id": "7udadlte",
+   "k": "comp",
+   "type": "BDE",
+   "cx": 555,
+   "cy": 375,
+   "w": 103,
+   "rot": 0,
+   "label": "B3",
+   "showLabel": true
+  },
+  {
+   "id": "1t7gt9i2",
+   "k": "comp",
+   "type": "BDE",
+   "cx": 820,
+   "cy": 370,
+   "w": 101,
+   "rot": 0,
+   "label": "B4",
+   "showLabel": true
+  },
+  {
+   "id": "m9deov27",
+   "k": "comp",
+   "type": "P_douille",
+   "cx": 715,
+   "cy": 200,
+   "w": 73,
+   "rot": 0,
+   "label": "L2",
+   "showLabel": true
   }
  ],
  "tab": [],
