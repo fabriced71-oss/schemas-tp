@@ -1,0 +1,28 @@
+{
+ "id": "tn1x3m1k",
+ "titre": "Nouveau TP",
+ "semaine": 4,
+ "updatedAt": "2026-11-23T15:03:20.619Z",
+ "els": [
+  {
+   "id": "92oxpmcl",
+   "k": "comp",
+   "type": "PL_e3_impl",
+   "cx": 561.5,
+   "cy": 382,
+   "w": 1100,
+   "rot": 0,
+   "label": "",
+   "showLabel": false
+  }
+ ],
+ "tab": [],
+ "fond": true,
+ "tp": null,
+ "uni": [],
+ "multi": [],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": "",
+ "orient": {}
+}
