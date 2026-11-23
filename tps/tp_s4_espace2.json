@@ -1,0 +1,431 @@
+{
+ "id": "tp_s4_espace2",
+ "titre": "Espace 2 – Parties communes de l’immeuble",
+ "semaine": 4,
+ "updatedAt": "2026-11-23T11:48:51.591Z",
+ "els": [
+  {
+   "id": "e4x049",
+   "k": "comp",
+   "type": "BDE",
+   "cx": 980,
+   "cy": 175,
+   "w": 110,
+   "rot": 0,
+   "label": "",
+   "showLabel": false
+  },
+  {
+   "id": "e4x050",
+   "k": "comp",
+   "type": "boite",
+   "cx": 230,
+   "cy": 170,
+   "w": 50,
+   "rot": 0,
+   "label": "4",
+   "showLabel": true
+  },
+  {
+   "id": "e4x051",
+   "k": "comp",
+   "type": "P_douille",
+   "cx": 440,
+   "cy": 205,
+   "w": 80,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "e4x052",
+   "k": "comp",
+   "type": "P_douille",
+   "cx": 720,
+   "cy": 195,
+   "w": 80,
+   "rot": 0,
+   "label": "L2",
+   "showLabel": true
+  },
+  {
+   "id": "e4x053",
+   "k": "comp",
+   "type": "P_boite",
+   "cx": 560,
+   "cy": 370,
+   "w": 90,
+   "rot": 0,
+   "label": "B1",
+   "showLabel": true
+  },
+  {
+   "id": "e4x054",
+   "k": "comp",
+   "type": "P_boite",
+   "cx": 820,
+   "cy": 370,
+   "w": 90,
+   "rot": 0,
+   "label": "B2",
+   "showLabel": true
+  },
+  {
+   "id": "e4x055",
+   "k": "comp",
+   "type": "P_bp",
+   "cx": 380,
+   "cy": 640,
+   "w": 80,
+   "rot": 0,
+   "label": "A1",
+   "showLabel": true
+  },
+  {
+   "id": "e4x056",
+   "k": "comp",
+   "type": "P_bp",
+   "cx": 560,
+   "cy": 640,
+   "w": 80,
+   "rot": 0,
+   "label": "A2",
+   "showLabel": true
+  },
+  {
+   "id": "e4x057",
+   "k": "comp",
+   "type": "P_prise",
+   "cx": 700,
+   "cy": 640,
+   "w": 80,
+   "rot": 0,
+   "label": "A4",
+   "showLabel": true
+  },
+  {
+   "id": "e4x058",
+   "k": "comp",
+   "type": "P_bp",
+   "cx": 840,
+   "cy": 640,
+   "w": 80,
+   "rot": 0,
+   "label": "A3",
+   "showLabel": true
+  },
+  {
+   "id": "e4x059",
+   "k": "wire",
+   "color": "i25",
+   "style": "line",
+   "pts": [
+    [
+     925,
+     175
+    ],
+    [
+     560,
+     175
+    ],
+    [
+     560,
+     325
+    ]
+   ]
+  },
+  {
+   "id": "e4x060",
+   "k": "wire",
+   "color": "i25",
+   "style": "line",
+   "pts": [
+    [
+     605,
+     370
+    ],
+    [
+     775,
+     370
+    ]
+   ]
+  },
+  {
+   "id": "e4x061",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     520,
+     340
+    ],
+    [
+     440,
+     340
+    ],
+    [
+     440,
+     245
+    ]
+   ]
+  },
+  {
+   "id": "e4x062",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     790,
+     335
+    ],
+    [
+     720,
+     335
+    ],
+    [
+     720,
+     235
+    ]
+   ]
+  },
+  {
+   "id": "e4x063",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     530,
+     410
+    ],
+    [
+     530,
+     520
+    ],
+    [
+     380,
+     520
+    ],
+    [
+     380,
+     600
+    ]
+   ]
+  },
+  {
+   "id": "e4x064",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     565,
+     412
+    ],
+    [
+     565,
+     600
+    ]
+   ]
+  },
+  {
+   "id": "e4x065",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     795,
+     412
+    ],
+    [
+     795,
+     520
+    ],
+    [
+     700,
+     520
+    ],
+    [
+     700,
+     600
+    ]
+   ]
+  },
+  {
+   "id": "e4x066",
+   "k": "wire",
+   "color": "i16",
+   "style": "line",
+   "pts": [
+    [
+     845,
+     412
+    ],
+    [
+     845,
+     600
+    ]
+   ]
+  },
+  {
+   "id": "e4x067",
+   "k": "wire",
+   "color": "m20",
+   "style": "line",
+   "pts": [
+    [
+     230,
+     195
+    ],
+    [
+     230,
+     600
+    ]
+   ]
+  },
+  {
+   "id": "e4x068",
+   "k": "text",
+   "x": 930,
+   "y": 108,
+   "size": 12,
+   "bold": true,
+   "text": "Boîte étanche (espace 2)"
+  },
+  {
+   "id": "e4x069",
+   "k": "text",
+   "x": 930,
+   "y": 124,
+   "size": 11,
+   "bold": false,
+   "text": "C2 (ECL) · C3 (PC) en attente"
+  },
+  {
+   "id": "e4x070",
+   "k": "text",
+   "x": 170,
+   "y": 135,
+   "size": 11,
+   "bold": false,
+   "text": "Vers platine de rue C4"
+  },
+  {
+   "id": "e4x071",
+   "k": "text",
+   "x": 190,
+   "y": 640,
+   "size": 13,
+   "bold": true,
+   "text": "☎ Combiné intérieur 1"
+  },
+  {
+   "id": "e4x072",
+   "k": "text",
+   "x": 238,
+   "y": 400,
+   "size": 11,
+   "bold": true,
+   "text": "M1"
+  },
+  {
+   "id": "e4x073",
+   "k": "text",
+   "x": 700,
+   "y": 165,
+   "size": 11,
+   "bold": true,
+   "text": "C01"
+  },
+  {
+   "id": "e4x074",
+   "k": "text",
+   "x": 680,
+   "y": 362,
+   "size": 11,
+   "bold": true,
+   "text": "C01"
+  },
+  {
+   "id": "e4x075",
+   "k": "text",
+   "x": 470,
+   "y": 330,
+   "size": 11,
+   "bold": true,
+   "text": "C02"
+  },
+  {
+   "id": "e4x076",
+   "k": "text",
+   "x": 395,
+   "y": 510,
+   "size": 11,
+   "bold": true,
+   "text": "C02"
+  },
+  {
+   "id": "e4x077",
+   "k": "text",
+   "x": 570,
+   "y": 500,
+   "size": 11,
+   "bold": true,
+   "text": "C02"
+  },
+  {
+   "id": "e4x078",
+   "k": "text",
+   "x": 710,
+   "y": 510,
+   "size": 11,
+   "bold": true,
+   "text": "C02"
+  },
+  {
+   "id": "e4x079",
+   "k": "text",
+   "x": 850,
+   "y": 500,
+   "size": 11,
+   "bold": true,
+   "text": "C02"
+  },
+  {
+   "id": "e4x080",
+   "k": "text",
+   "x": 40,
+   "y": 760,
+   "size": 11,
+   "bold": false,
+   "text": "L1, L2 sur la minuterie C2 · A4 sur le circuit PC C3 · raccordement à la source uniquement en présence du formateur"
+  }
+ ],
+ "tab": [],
+ "fond": true,
+ "tp": {
+  "formation": "Titre pro EEB / CAP MELEC",
+  "duree": "Journée (7 h)",
+  "date": "",
+  "edited": true,
+  "objectif": "<ul><li>Lire et exploiter un dossier technique (plans architectural et d’implantation, schéma du tableau, liste du matériel).</li><li>Poser les canalisations et l’appareillage, réaliser les raccordements conformément aux plans et à la NF C 15-100.</li><li>Effectuer les vérifications avant la mise en service et expliquer le fonctionnement.</li></ul>",
+  "situation": "<p><b>Espace de travail 2 – Parties communes de l’immeuble.</b> À partir de la boîte étanche proche de l’espace 2, qui contient le circuit prises C3, le circuit d’éclairage C2 et le circuit de commande « minuterie » (retours lampe et BP), ainsi que la boîte de dérivation pour moulure 4 (déport de platine de rue), vous réalisez la partie éclairage et force : 2 points d’éclairage (L1, L2), 3 points de commande (A1 à A3), 1 prise (A4), 2 boîtes de dérivation (B1, B2) et un combiné interphone 1.</p>",
+  "travail": "<ol><li>L1 et L2 sont commandées par les BP A1 à A3 raccordés sur le <b>circuit minuterie C2</b> (en attente dans la boîte étanche).</li><li>La prise A4 est raccordée sur le <b>circuit PC C3</b>.</li><li>Installer et raccorder le <b>combiné 1</b> sur le déport de platine de rue en attente dans la boîte 4 (moulure M1).</li><li>Installer et raccorder les boîtes de dérivation B1 et B2.</li><li>Poser les conduits IRL C01 (Ø25), C02 (Ø16) et la moulure M1.</li></ol>",
+  "contraintes": "<p class=\"warn\"><b>Sécurité :</b> travail exclusivement hors tension (AGCP consigné). Le raccordement à la source et la mise en service se font uniquement en présence du formateur (jury). Port des EPI obligatoire.</p><ul><li>Conduits IRL fixés avec les colliers adaptés, alignés et d’aplomb.</li><li>Le raccordement des câbles d’alimentation (éclairage, PC) à la boîte étanche ne se fait qu’à la mise en service, en présence du formateur.</li><li>Documents à remplir : attestation de consignation et autorisation de travail.</li></ul>",
+  "materiel": "<table class=\"t\"><tr><th>Repère</th><th>Désignation</th><th>Qté</th><th>Observations</th></tr><tr><td>B1-B2</td><td>Boîte de dérivation 7 entrées</td><td>2</td><td>Conduits Ø16, 20, 25</td></tr><tr><td>L1-L2</td><td>Patère</td><td>2</td><td></td></tr><tr><td>A1-A2-A3</td><td>Bouton poussoir (support saillie)</td><td>3</td><td></td></tr><tr><td>A4</td><td>PC 2P+T (support saillie)</td><td>1</td><td></td></tr><tr><td>C01</td><td>Conduit IRL Ø25 + fixations</td><td>≈ 2 ml</td><td>Selon agencement</td></tr><tr><td>C02</td><td>Conduit IRL Ø16 + fixations</td><td>≈ 3 ml</td><td>Selon agencement</td></tr><tr><td>—</td><td>Câble U1000 R2V 5G1,5</td><td>3 ml</td><td></td></tr><tr><td>—</td><td>Câble U1000 R2V 3G2,5</td><td>3 ml</td><td></td></tr><tr><td>—</td><td>Câble U1000 R2V 3G1,5</td><td>5 ml</td><td></td></tr><tr><td>1</td><td>Combiné intérieur (interphone)</td><td>1</td><td>Compatible contrôle d’accès</td></tr><tr><td>—</td><td>SYT 3P 6/10</td><td>2 ml</td><td></td></tr><tr><td>M1</td><td>Moulure 20 × 12,5</td><td>2 ml</td><td>Selon agencement</td></tr></table>",
+  "evaluation": "<table class=\"t\"><tr><th>Critère</th><th class=\"n\">Barème</th><th class=\"n\">Note</th></tr>\n<tr><td>Respect des normes (NF C 15-100, sections, protections, couleurs)</td><td class=\"n\">/ 4</td><td></td></tr>\n<tr><td>Respect du câblage et des repères (conformité aux plans)</td><td class=\"n\">/ 4</td><td></td></tr>\n<tr><td>Gestion de la consommation des fils et du matériel</td><td class=\"n\">/ 4</td><td></td></tr>\n<tr><td>Présentation globale du travail (pose, alignements, finitions)</td><td class=\"n\">/ 4</td><td></td></tr>\n<tr><td>Explication orale du fonctionnement</td><td class=\"n\">/ 4</td><td></td></tr>\n<tr><th>Total</th><th class=\"n\">/ 20</th><th></th></tr></table>",
+  "plans": [
+   "e2_archi",
+   "e2_impl"
+  ],
+  "pages": {}
+ },
+ "uni": [],
+ "multi": [],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": ""
+}
