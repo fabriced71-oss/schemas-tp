@@ -243,6 +243,14 @@
      "type": "Cours",
      "titre": "Les lois de l’électricité : Ohm, nœuds et mailles",
      "cours": "c_lois_s3"
+    },
+    {
+     "type": "TP",
+     "titre": "Arrêt d’urgence coup de poing (3 TP)",
+     "cours": [
+      "c_au_eleve_s3",
+      "c_au_corrige_s3"
+     ]
     }
    ],
    "days": [
@@ -294,7 +302,18 @@
      "fiches": []
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "c_au_eleve_s3",
+       "titre": "TP arrêt d’urgence coup de poing – version apprentis (sans schémas)",
+       "link": "https://claude.ai/artifact/ExbNv23akhq9FZNyT8F85m"
+      },
+      {
+       "id": "c_au_corrige_s3",
+       "titre": "TP arrêt d’urgence coup de poing – corrigé formateur (corrections animées)",
+       "link": "https://claude.ai/artifact/95CedT5Gw81ePcMtZcSHbe"
+      }
+     ],
      "fiches": []
     },
     {
@@ -677,7 +696,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-23T11:48:53.215Z",
+ "updatedAt": "2026-11-24T07:22:22.000Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
