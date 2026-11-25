@@ -259,6 +259,10 @@
       "c_jn_eleve_s3",
       "c_jn_corrige_s3"
      ]
+    },
+    {
+     "type": "Cours",
+     "titre": "Nouveau cours"
     }
    ],
    "days": [
@@ -715,7 +719,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-24T12:47:24.000Z",
+ "updatedAt": "2026-11-25T07:15:12.324Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
