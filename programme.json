@@ -262,7 +262,7 @@
     },
     {
      "type": "Cours",
-     "titre": "Nouveau cours",
+     "titre": "Arrêt d'urgence ",
      "cours": "c_au_corrige_s3"
     }
    ],
@@ -720,7 +720,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-25T07:15:28.570Z",
+ "updatedAt": "2026-11-25T07:17:59.776Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
