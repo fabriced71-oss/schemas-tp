@@ -262,7 +262,8 @@
     },
     {
      "type": "Cours",
-     "titre": "Nouveau cours"
+     "titre": "Nouveau cours",
+     "cours": "c_au_corrige_s3"
     }
    ],
    "days": [
@@ -719,7 +720,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-25T07:15:12.324Z",
+ "updatedAt": "2026-11-25T07:15:28.570Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
