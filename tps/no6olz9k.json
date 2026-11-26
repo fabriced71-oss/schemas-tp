@@ -2,8 +2,48 @@
  "id": "no6olz9k",
  "titre": "TP Semaine 3 Télérupteur, VV et permutateur ",
  "semaine": 3,
- "updatedAt": "2026-11-26T19:55:36.044Z",
+ "updatedAt": "2026-11-26T19:56:49.299Z",
  "els": [
+  {
+   "id": "pgzzmvho",
+   "k": "wire",
+   "color": "i20",
+   "style": "curve",
+   "pts": [
+    [
+     875,
+     490
+    ],
+    [
+     825,
+     335
+    ],
+    [
+     600,
+     335
+    ]
+   ]
+  },
+  {
+   "id": "9hcggvsf",
+   "k": "wire",
+   "color": "i20",
+   "style": "curve",
+   "pts": [
+    [
+     595,
+     355
+    ],
+    [
+     775,
+     370
+    ],
+    [
+     750,
+     495
+    ]
+   ]
+  },
   {
    "id": "g5813ng8",
    "k": "wire",
@@ -45,26 +85,6 @@
    ]
   },
   {
-   "id": "5a4st1xb",
-   "k": "wire",
-   "color": "g16",
-   "style": "curve",
-   "pts": [
-    [
-     875,
-     485
-    ],
-    [
-     875,
-     340
-    ],
-    [
-     590,
-     335
-    ]
-   ]
-  },
-  {
    "id": "vm5f384s",
    "k": "wire",
    "color": "g16",
@@ -85,26 +105,6 @@
     [
      535,
      320
-    ]
-   ]
-  },
-  {
-   "id": "jnriugq8",
-   "k": "wire",
-   "color": "g16",
-   "style": "curve",
-   "pts": [
-    [
-     595,
-     350
-    ],
-    [
-     780,
-     360
-    ],
-    [
-     745,
-     500
     ]
    ]
   },
@@ -269,7 +269,7 @@
    "id": "lfileozy",
    "k": "comp",
    "type": "boite",
-   "cx": 555,
+   "cx": 560,
    "cy": 365,
    "w": 100,
    "rot": 0,
