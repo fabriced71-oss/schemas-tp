@@ -356,11 +356,7 @@
    "days": [
     {
      "cours": [],
-     "fiches": [
-      "tp_s4_espace1",
-      "tp_s4_espace2",
-      "tp_s4_espace3"
-     ]
+     "fiches": []
     },
     {
      "cours": [],
@@ -703,7 +699,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-26T19:00:52.657Z",
+ "updatedAt": "2026-11-26T20:24:08.530Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
