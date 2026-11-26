@@ -2,7 +2,7 @@
  "id": "no6olz9k",
  "titre": "TP Semaine 3 Telerupteur, VV et permutateur ",
  "semaine": 3,
- "updatedAt": "2026-11-26T19:11:53.817Z",
+ "updatedAt": "2026-11-26T19:12:52.178Z",
  "els": [
   {
    "id": "g5813ng8",
@@ -489,6 +489,39 @@
    "w": 52,
    "rot": 0,
    "label": "L3",
+   "showLabel": true
+  },
+  {
+   "id": "cnts699d",
+   "k": "comp",
+   "type": "M_prise",
+   "cx": 320,
+   "cy": 655,
+   "w": 91,
+   "rot": 0,
+   "label": "PC1",
+   "showLabel": true
+  },
+  {
+   "id": "sdlqjtfx",
+   "k": "comp",
+   "type": "M_dvv",
+   "cx": 595,
+   "cy": 580,
+   "w": 130,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "ihdliodb",
+   "k": "comp",
+   "type": "M_vv",
+   "cx": 835,
+   "cy": 585,
+   "w": 65,
+   "rot": 0,
+   "label": "VV2",
    "showLabel": true
   }
  ],
