@@ -2,7 +2,7 @@
  "id": "no6olz9k",
  "titre": "Telerupteur",
  "semaine": 2,
- "updatedAt": "2026-11-26T19:02:23.190Z",
+ "updatedAt": "2026-11-26T19:03:58.511Z",
  "els": [
   {
    "id": "n0bsqdje",
@@ -71,16 +71,16 @@
    "style": "curve",
    "pts": [
     [
-     470,
-     210
+     475,
+     190
     ],
     [
-     455,
-     345
+     460,
+     325
     ],
     [
-     525,
-     350
+     530,
+     330
     ]
    ]
   },
@@ -165,7 +165,7 @@
    "id": "lfileozy",
    "k": "comp",
    "type": "boite",
-   "cx": 565,
+   "cx": 555,
    "cy": 365,
    "w": 100,
    "rot": 0,
@@ -236,6 +236,50 @@
    "w": 110,
    "rot": 0,
    "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "kc4t3zgr",
+   "k": "comp",
+   "type": "VV2",
+   "cx": 885,
+   "cy": 530,
+   "w": 90,
+   "rot": 0,
+   "label": "VV2",
+   "showLabel": true
+  },
+  {
+   "id": "7t6ixr2k",
+   "k": "comp",
+   "type": "VV1",
+   "cx": 1020,
+   "cy": 530,
+   "w": 90,
+   "rot": 0,
+   "label": "VV3",
+   "showLabel": true
+  },
+  {
+   "id": "24g1bfgr",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 675,
+   "cy": 155,
+   "w": 110,
+   "rot": 0,
+   "label": "L2",
+   "showLabel": true
+  },
+  {
+   "id": "h87a79qk",
+   "k": "comp",
+   "type": "prise",
+   "cx": 445,
+   "cy": 690,
+   "w": 90,
+   "rot": 0,
+   "label": "PC1",
    "showLabel": true
   }
  ],
