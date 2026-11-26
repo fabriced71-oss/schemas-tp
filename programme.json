@@ -352,7 +352,16 @@
      "fiches": []
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "pv9li0mv",
+       "titre": "regimes_de_neutre_1.pptx",
+       "fname": "regimes_de_neutre_1.pptx",
+       "ftype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+       "size": 543612,
+       "gpath": "cours/S4/pv9li0mv-regimes_de_neutre_1.pptx"
+      }
+     ],
      "fiches": []
     },
     {
@@ -684,7 +693,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-26T20:25:23.588Z",
+ "updatedAt": "2026-11-26T20:26:44.552Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
