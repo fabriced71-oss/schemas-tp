@@ -2,7 +2,7 @@
  "id": "no6olz9k",
  "titre": "Telerupteur",
  "semaine": 2,
- "updatedAt": "2026-11-26T19:01:40.040Z",
+ "updatedAt": "2026-11-26T19:02:23.190Z",
  "els": [
   {
    "id": "n0bsqdje",
@@ -132,8 +132,8 @@
    "id": "zwpfrj7i",
    "k": "comp",
    "type": "BP",
-   "cx": 490,
-   "cy": 525,
+   "cx": 450,
+   "cy": 530,
    "w": 90,
    "rot": 0,
    "label": "BP1",
@@ -143,8 +143,8 @@
    "id": "21yq6dw3",
    "k": "comp",
    "type": "BP",
-   "cx": 625,
-   "cy": 525,
+   "cx": 600,
+   "cy": 530,
    "w": 90,
    "rot": 0,
    "label": "BP2",
@@ -225,6 +225,17 @@
    "w": 18.321678321678323,
    "rot": 0,
    "label": "D2",
+   "showLabel": true
+  },
+  {
+   "id": "47jwck1n",
+   "k": "comp",
+   "type": "DVV",
+   "cx": 750,
+   "cy": 530,
+   "w": 110,
+   "rot": 0,
+   "label": "VV1",
    "showLabel": true
   }
  ],
