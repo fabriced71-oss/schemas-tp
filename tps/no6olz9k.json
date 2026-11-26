@@ -2,7 +2,7 @@
  "id": "no6olz9k",
  "titre": "TP Semaine 3 Télérupteur, VV et permutateur ",
  "semaine": 3,
- "updatedAt": "2026-11-26T20:00:28.746Z",
+ "updatedAt": "2026-11-26T20:01:03.478Z",
  "els": [
   {
    "id": "ux2x5jjs",
@@ -390,7 +390,7 @@
  "tab": [],
  "fond": true,
  "tp": {
-  "formation": "CAP / Bac Pro MELEC",
+  "formation": "EEB180<br>",
   "duree": "6 h",
   "date": "",
   "objectif": "<ul><li>Lire et exploiter un schéma électrique.</li><li>Réaliser le câblage d’une installation conformément au schéma et à la NF C 15-100.</li><li>Effectuer les vérifications et les essais avant la mise en service.</li></ul>",
