@@ -2,8 +2,28 @@
  "id": "no6olz9k",
  "titre": "Telerupteur",
  "semaine": 2,
- "updatedAt": "2026-11-26T19:04:58.253Z",
+ "updatedAt": "2026-11-26T19:06:01.087Z",
  "els": [
+  {
+   "id": "g5813ng8",
+   "k": "wire",
+   "color": "g16",
+   "style": "curve",
+   "pts": [
+    [
+     480,
+     690
+    ],
+    [
+     745,
+     665
+    ],
+    [
+     745,
+     560
+    ]
+   ]
+  },
   {
    "id": "5cqxt9eu",
    "k": "wire",
