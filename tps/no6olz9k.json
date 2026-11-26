@@ -2,7 +2,7 @@
  "id": "no6olz9k",
  "titre": "TP Semaine 3 Telerupteur, VV et permutateur ",
  "semaine": 3,
- "updatedAt": "2026-11-26T19:52:49.682Z",
+ "updatedAt": "2026-11-26T19:53:47.501Z",
  "els": [
   {
    "id": "g5813ng8",
@@ -498,10 +498,32 @@
    "k": "comp",
    "type": "U_lampe",
    "cx": 1075,
-   "cy": 425,
+   "cy": 430,
    "w": 52,
    "rot": 0,
    "label": "L3",
+   "showLabel": true
+  },
+  {
+   "id": "5fpax2az",
+   "k": "comp",
+   "type": "U_bp",
+   "cx": 365,
+   "cy": 235,
+   "w": 39,
+   "rot": 0,
+   "label": "BP1",
+   "showLabel": true
+  },
+  {
+   "id": "ncmdcl88",
+   "k": "comp",
+   "type": "U_bp",
+   "cx": 470,
+   "cy": 235,
+   "w": 39,
+   "rot": 0,
+   "label": "BP2",
    "showLabel": true
   }
  ],
