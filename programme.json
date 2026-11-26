@@ -365,7 +365,16 @@
      "fiches": []
     },
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "txqt033s",
+       "titre": "Les régimes de neutre – formation habilitation électrique (corrigé dans les notes)",
+       "fname": "Regimes_de_neutre_habilitation_EI_Dupin.pptx",
+       "ftype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+       "size": 1436089,
+       "gpath": "cours/S4/txqt033s-Regimes_de_neutre_habilitation_EI_Dupin.pptx"
+      }
+     ],
      "fiches": []
     }
    ]
@@ -693,7 +702,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-26T20:26:44.552Z",
+ "updatedAt": "2026-11-26T20:45:09.000Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
