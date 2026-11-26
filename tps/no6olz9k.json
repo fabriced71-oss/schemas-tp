@@ -2,7 +2,7 @@
  "id": "no6olz9k",
  "titre": "TP Semaine 3 Telerupteur, VV et permutateur ",
  "semaine": 3,
- "updatedAt": "2026-11-26T19:15:34.814Z",
+ "updatedAt": "2026-11-26T19:17:57.032Z",
  "els": [
   {
    "id": "g5813ng8",
@@ -399,9 +399,112 @@
   "travail": "<p>À partir du schéma fourni en annexe, vous devez :</p><ol>\n    <li>Identifier chaque organe du schéma et vérifier le matériel mis à disposition.</li>\n    <li>Réaliser le câblage : commande de L1 et L2 par télérupteur TL1 depuis 2 boutons poussoirs (BP1 et BP2).</li><li>Réaliser le câblage : circuit prise de courant 2P+T : PC1.</li><li>Réaliser le câblage : protection des personnes par l’interrupteur différentiel 30 mA I1 et I2, départs protégés par D1 et D2.</li><li>Réaliser le câblage : implantation des appareils modulaires sur le châssis (respect de l’ordre et des repères).</li>\n    <li>Repérer les conducteurs et les appareils conformément au schéma.</li>\n    <li>Effectuer les vérifications hors tension : continuité des conducteurs (dont le PE), absence de court-circuit, isolement.</li>\n    <li>Faire valider le câblage par le formateur, puis réaliser les essais de fonctionnement en sa présence.</li>\n    <li>Remettre le poste de travail en ordre et ranger l’outillage.</li></ol>",
   "contraintes": "<p class=\"warn\"><b>Sécurité :</b> travail exclusivement hors tension. Aucune mise sous tension sans l’accord et la présence du formateur. Port des EPI obligatoire.</p>\n    <ul><li>Respecter le schéma et les repères (18 organes à câbler).</li>\n    <li>Couleurs normalisées : phase en rouge (ou marron/noir), neutre en bleu, conducteur de protection en vert/jaune, retours en violet ou orange.</li>\n    <li>Sections et protections selon la NF C 15-100 :</li></ul><table class=\"t\"><tr><th>Circuit</th><th>Section</th><th>Protection</th><th>Limite</th></tr><tr><td>Éclairage</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>8 points lumineux maxi</td></tr><tr><td>Prises 16 A</td><td>1,5 mm²</td><td>Disjoncteur 16 A</td><td>5 socles maxi</td></tr><tr><td>Prises 16 A</td><td>2,5 mm²</td><td>Disjoncteur 20 A</td><td>8 socles maxi</td></tr></table>\n    <ul><li>Qualité : dénudage à la bonne longueur, pas de cuivre apparent, serrage correct des bornes, conducteurs rangés en goulotte.</li>\n    <li>Durée : voir l’en-tête. Toute modification du schéma doit être validée par le formateur.</li></ul>",
   "evaluation": "<table class=\"t\"><tbody><tr><th>Critère</th><th class=\"n\">Barème</th><th class=\"n\">Note</th></tr>\n      <tr><td>Respect du schéma et des repères</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Qualité du câblage (dénudage, serrage, rangement)</td><td class=\"n\">/ 5</td><td></td></tr>\n      <tr><td>Respect des couleurs et des sections</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><td>Sécurité et comportement au poste, gestion des déchets&nbsp;</td><td class=\"n\">/ 4</td><td></td></tr>\n      <tr><td>Vérifications, essais et fonctionnement</td><td class=\"n\">/ 3</td><td></td></tr>\n      <tr><th>Total</th><th class=\"n\">/ 20</th><th></th></tr></tbody></table>",
-  "edited": true
+  "edited": true,
+  "blank": [
+   "Schéma de principe à réaliser par l’apprenant"
+  ]
  },
- "uni": [],
+ "uni": [
+  {
+   "id": "dm8dlc7k",
+   "k": "comp",
+   "type": "U_diff",
+   "cx": 90,
+   "cy": 135,
+   "w": 73,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "tjcgqiho",
+   "k": "comp",
+   "type": "U_disj",
+   "cx": 85,
+   "cy": 315,
+   "w": 52,
+   "rot": 0,
+   "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "j70gyoij",
+   "k": "comp",
+   "type": "U_tl",
+   "cx": 585,
+   "cy": 235,
+   "w": 65,
+   "rot": 0,
+   "label": "TL1",
+   "showLabel": true
+  },
+  {
+   "id": "8kkhdyy4",
+   "k": "comp",
+   "type": "U_dvv",
+   "cx": 270,
+   "cy": 390,
+   "w": 57,
+   "rot": 0,
+   "label": "VV1",
+   "showLabel": true
+  },
+  {
+   "id": "sik16afn",
+   "k": "comp",
+   "type": "U_perm",
+   "cx": 450,
+   "cy": 385,
+   "w": 52,
+   "rot": 0,
+   "label": "VV2",
+   "showLabel": true
+  },
+  {
+   "id": "a4ll3gsv",
+   "k": "comp",
+   "type": "U_vv",
+   "cx": 610,
+   "cy": 385,
+   "w": 52,
+   "rot": 0,
+   "label": "VV3",
+   "showLabel": true
+  },
+  {
+   "id": "etg17p58",
+   "k": "comp",
+   "type": "U_lampe",
+   "cx": 875,
+   "cy": 430,
+   "w": 52,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "fbeprr5t",
+   "k": "comp",
+   "type": "U_lampe",
+   "cx": 975,
+   "cy": 430,
+   "w": 52,
+   "rot": 0,
+   "label": "L2",
+   "showLabel": true
+  },
+  {
+   "id": "tzcbuk4d",
+   "k": "comp",
+   "type": "U_lampe",
+   "cx": 1075,
+   "cy": 425,
+   "w": 52,
+   "rot": 0,
+   "label": "L3",
+   "showLabel": true
+  }
+ ],
  "multi": [
   {
    "id": "1jq8u0he",
