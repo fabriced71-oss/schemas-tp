@@ -199,6 +199,18 @@ button.chip{cursor:pointer}
 .day.has{background:var(--accent-soft);border-color:var(--accent)}
 .day.today{box-shadow:0 0 0 2px #e0a106}
 .day-card{width:min(720px,100%)}
+#cvM{padding:2vh 2vw;z-index:15;align-items:stretch}
+#cvM .cv-card{width:min(1500px,100%);max-height:none;height:96vh}
+#cvM .cv-card header{flex-wrap:wrap}
+.cv-body{flex:1;min-height:0;background:#1f2933;border-radius:0 0 8px 8px;overflow:hidden;display:flex}
+.cv-body iframe,.cv-body video{flex:1;width:100%;height:100%;border:0;display:block;background:#fff}
+.cv-body img{max-width:100%;max-height:100%;margin:auto;display:block;object-fit:contain}
+.cv-body audio{margin:auto}
+.cv-pdf{flex:1;overflow:auto;padding:14px;display:flex;flex-direction:column;align-items:center;gap:14px;background:#525659;-webkit-overflow-scrolling:touch}
+.cv-pdf canvas{background:#fff;box-shadow:0 2px 10px rgba(0,0,0,.45);max-width:100%;height:auto;flex:none}
+.cv-msg{color:#fff;margin:auto;padding:24px;max-width:560px;text-align:center;font-size:15px;line-height:1.5}
+#cvM .cv-card:fullscreen{height:100vh;width:100vw;border-radius:0}
+@media(max-width:600px){#cvM{padding:0}#cvM .cv-card{height:100vh;border-radius:0}}
 .dsec{display:flex;flex-direction:column;gap:8px;margin-top:10px}
 .dsec h4{margin:0;font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);display:flex;align-items:center;gap:6px}
 .dsec h4 svg{width:15px;height:15px;color:var(--accent)}
@@ -353,6 +365,12 @@ button.chip{cursor:pointer}
   <div class="card day-card" role="dialog" aria-labelledby="dayT">
     <header><h2 id="dayT"></h2><button class="btn" id="dayClose">Fermer</button></header>
     <div class="body" id="dayBody"></div>
+  </div>
+</div>
+<div class="modal" id="cvM" hidden="">
+  <div class="card cv-card" role="dialog" aria-labelledby="cvT">
+    <header><h2 id="cvT"></h2><button class="btn" id="cvFs" type="button">Plein écran</button><button class="btn" id="cvDl" type="button">Télécharger</button><button class="btn primary" id="cvClose" type="button">Fermer</button></header>
+    <div class="cv-body" id="cvBody"></div>
   </div>
 </div>
 <div class="modal" id="spM" hidden="">
@@ -1323,12 +1341,48 @@ async function renderDay(){
   if($("#fNew"))$("#fNew").onclick=async()=>{await saveNow();load({...blankDoc(),semaine:n,titre:`${DAYS_L[k]} S${n} – TP`});await saveNow();
     day.fiches.push(doc.id);progChanged();$("#dayM").hidden=true;setView("atelier");$("#titre").focus();$("#titre").select();toast("Nouvelle fiche créée : donnez-lui un titre puis dessinez le schéma");};
 }
+/* ---------- liseuse : le cours s’affiche directement dans l’application ---------- */
+const CV_OFFICE=["pptx","ppt","ppsx","pps","docx","doc","xlsx","xls"];
+const CV_MIME={pdf:"application/pdf",png:"image/png",jpg:"image/jpeg",jpeg:"image/jpeg",gif:"image/gif",webp:"image/webp",svg:"image/svg+xml",mp4:"video/mp4",webm:"video/webm",mov:"video/quicktime",m4v:"video/mp4",mp3:"audio/mpeg",wav:"audio/wav",m4a:"audio/mp4",txt:"text/plain",html:"text/html",htm:"text/html"};
+const CV_BUNDLED_PATH={eeb:"cours/integres/eeb.pptx"};
+let cvUrl=null,cvCur=null;
+function cvRaw(p){const o=gh.owner||GH_DEF.owner,r=gh.repo||GH_DEF.repo,b=gh.branch||GH_DEF.branch;return `https://raw.githubusercontent.com/${o}/${r}/${b}/${p.split("/").map(encodeURIComponent).join("/")}`;}
+function cvMsg(t){$("#cvBody").innerHTML=`<p class="cv-msg">${t}</p>`;}
+function cvClose(){$("#cvM").hidden=true;$("#cvBody").innerHTML="";if(cvUrl){URL.revokeObjectURL(cvUrl);cvUrl=null;}cvCur=null;if(document.fullscreenElement&&document.exitFullscreen)document.exitFullscreen().catch(()=>{});}
+async function cvDownload(c){if(!c)return;try{const b=await courseBlob(c);const u=URL.createObjectURL(b);const a=document.createElement("a");a.href=u;a.download=c.fname||"cours";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),4000);toast("Cours téléchargé : "+(c.fname||""));}catch(e){toast("Téléchargement impossible : "+e.message);}}
+let cvPdfLib=null;
+function cvLoadPdfJs(){return cvPdfLib||(cvPdfLib=new Promise((res,rej)=>{const V="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/",s=document.createElement("script");s.src=V+"pdf.min.js";s.onload=()=>{try{window.pdfjsLib.GlobalWorkerOptions.workerSrc=V+"pdf.worker.min.js";res(window.pdfjsLib);}catch(e){cvPdfLib=null;rej(e);}};s.onerror=()=>{cvPdfLib=null;s.remove();rej(new Error("lecteur PDF indisponible"));};document.head.appendChild(s);}));}
+async function cvPdf(b,c){const lib=await cvLoadPdfJs();const pdf=await lib.getDocument({data:new Uint8Array(await b.arrayBuffer())}).promise;if(cvCur!==c)return;
+  $("#cvBody").innerHTML=`<div class="cv-pdf"></div>`;const box=$("#cvBody .cv-pdf"),W=Math.max(280,Math.min(box.clientWidth-28,1150)),dpr=Math.min(window.devicePixelRatio||1,2);
+  for(let i=1;i<=pdf.numPages;i++){if(cvCur!==c)return;const pg=await pdf.getPage(i),v1=pg.getViewport({scale:1}),v=pg.getViewport({scale:W/v1.width*dpr});
+    const cv=document.createElement("canvas");cv.width=Math.round(v.width);cv.height=Math.round(v.height);cv.style.width=W+"px";cv.setAttribute("aria-label",`Page ${i} sur ${pdf.numPages}`);box.appendChild(cv);
+    await pg.render({canvasContext:cv.getContext("2d"),viewport:v}).promise;}}
 async function openCourse(c){if(!c)return;
   if(c.link){const a=document.createElement("a");a.href=c.link;a.target="_blank";a.rel="noopener";document.body.appendChild(a);a.click();a.remove();return;}
-  const w=window.open("","_blank");
-  try{const b=await courseBlob(c);const u=URL.createObjectURL(b);if(w)w.location=u;else{const a=document.createElement("a");a.href=u;a.download=c.fname;a.click();}}
-  catch(e){if(w)w.close();toast("Impossible d’ouvrir ce cours : "+e.message);}
+  const ext=((c.fname||"").split(".").pop()||"").toLowerCase();
+  cvCur=c;$("#cvT").textContent=c.titre||c.fname||"Cours";$("#cvDl").hidden=!(c.gpath||c.bundled||c.fname);cvMsg("Chargement du cours…");$("#cvM").hidden=false;
+  try{
+    if(CV_OFFICE.includes(ext)){
+      const p=c.gpath||CV_BUNDLED_PATH[c.bundled];
+      if(!p){cvMsg("Ce fichier n’est enregistré que sur l’ordinateur du formateur : il ne peut pas s’afficher ici.<br>Cliquez sur « Télécharger » pour l’ouvrir.");return;}
+      if(c.size>10e6){cvMsg("Ce fichier dépasse 10 Mo : il est trop lourd pour l’affichage en ligne.<br>Cliquez sur « Télécharger » pour l’ouvrir.");return;}
+      $("#cvBody").innerHTML=`<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=${encodeURIComponent(cvRaw(p))}" title="${esc(c.titre||"Cours")}" allowfullscreen></iframe>`;return;}
+    const b=await courseBlob(c);if(cvCur!==c)return;
+    const type=(b.type&&b.type!=="application/octet-stream"?b.type:"")||CV_MIME[ext]||"";
+    if(cvUrl)URL.revokeObjectURL(cvUrl);cvUrl=URL.createObjectURL(type&&type!==b.type?new Blob([b],{type}):b);
+    if(type.startsWith("image/"))$("#cvBody").innerHTML=`<img src="${cvUrl}" alt="${esc(c.titre||"")}">`;
+    else if(type.startsWith("video/"))$("#cvBody").innerHTML=`<video src="${cvUrl}" controls playsinline></video>`;
+    else if(type.startsWith("audio/"))$("#cvBody").innerHTML=`<audio src="${cvUrl}" controls></audio>`;
+    else if(type==="application/pdf"){try{await cvPdf(b,c);}catch(e){if(cvCur===c)$("#cvBody").innerHTML=`<iframe src="${cvUrl}" title="${esc(c.titre||"Cours")}"></iframe>`;}}
+    else if(type.startsWith("text/"))$("#cvBody").innerHTML=`<iframe src="${cvUrl}" sandbox="allow-scripts allow-popups" title="${esc(c.titre||"Cours")}"></iframe>`;
+    else cvMsg(`Ce type de fichier (${esc(ext.toUpperCase()||"inconnu")}) ne peut pas s’afficher dans l’application.<br>Cliquez sur « Télécharger » pour l’ouvrir.`);
+  }catch(e){if(cvCur===c)cvMsg("Impossible d’afficher ce cours : "+esc(e.message));}
 }
+$("#cvClose").onclick=cvClose;
+$("#cvDl").onclick=()=>cvDownload(cvCur);
+$("#cvFs").onclick=()=>{const el=$("#cvM .cv-card");if(document.fullscreenElement){document.exitFullscreen().catch(()=>{});return;}const f=el.requestFullscreen||el.webkitRequestFullscreen;if(f)Promise.resolve(f.call(el)).catch(()=>toast("Plein écran indisponible sur cet appareil"));else toast("Plein écran indisponible sur cet appareil");};
+$("#cvM").onclick=e=>{if(e.target.id==="cvM")cvClose();};
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("#cvM").hidden){e.preventDefault();e.stopPropagation();cvClose();}},true);
 async function openFiche(id,sh){try{await saveNow();const d=await store.get(id);if(!d){toast("Fiche introuvable");return;}load(d);saveNow();$("#dayM").hidden=true;setView("atelier");if(sh==="tp")setSheet("tp");}catch(e){toast("Ouverture impossible : "+e.message);}}
 $("#dayClose").onclick=()=>{$("#dayM").hidden=true;dayCur=null;};
 $("#dayM").onclick=e=>{if(e.target.id==="dayM"){$("#dayM").hidden=true;dayCur=null;}};
