@@ -333,7 +333,9 @@
        "ftype": "application/pdf"
       }
      ],
-     "fiches": []
+     "fiches": [
+      "sivdpzhy"
+     ]
     },
     {
      "cours": [],
@@ -694,7 +696,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-27T08:32:49.026Z",
+ "updatedAt": "2026-11-27T08:33:13.153Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
