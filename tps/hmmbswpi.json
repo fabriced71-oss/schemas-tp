@@ -2,7 +2,7 @@
  "id": "hmmbswpi",
  "titre": "Lundi S4 – contacteur jour nuit pour ECS",
  "semaine": 4,
- "updatedAt": "2026-11-27T12:29:04.357Z",
+ "updatedAt": "2026-11-27T12:29:45.211Z",
  "els": [
   {
    "id": "e8lshcy8",
@@ -91,6 +91,28 @@
    "rot": 0,
    "label": "X1",
    "showLabel": false
+  },
+  {
+   "id": "05c8ez06",
+   "k": "comp",
+   "type": "boite",
+   "cx": 620,
+   "cy": 395,
+   "w": 100,
+   "rot": 0,
+   "label": "B1",
+   "showLabel": false
+  },
+  {
+   "id": "5kgzs2ok",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 505,
+   "cy": 160,
+   "w": 110,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
   }
  ],
  "tab": [],
