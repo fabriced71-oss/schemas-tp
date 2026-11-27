@@ -324,7 +324,15 @@
    ],
    "days": [
     {
-     "cours": [],
+     "cours": [
+      {
+       "id": "27n81s3m",
+       "titre": "La sonnette",
+       "plan": "sonnette",
+       "fname": "La sonnette.pdf",
+       "ftype": "application/pdf"
+      }
+     ],
      "fiches": []
     },
     {
@@ -686,7 +694,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-27T08:17:56.544Z",
+ "updatedAt": "2026-11-27T08:32:49.026Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
