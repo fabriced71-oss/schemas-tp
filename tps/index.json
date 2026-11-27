@@ -52,5 +52,11 @@
   "titre": "Lundi S4 – Volet roulant avec voyant de signalisation ",
   "semaine": 4,
   "updatedAt": "2026-11-27T09:59:24.414Z"
+ },
+ {
+  "id": "carnet_05",
+  "titre": "Carnet 05 – Le télérupteur unipolaire",
+  "semaine": 0,
+  "updatedAt": "2026-11-27T11:59:24.364Z"
  }
 ]
