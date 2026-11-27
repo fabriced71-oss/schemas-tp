@@ -2,7 +2,7 @@
  "id": "3zpp5s3f",
  "titre": "Exemple – Va-et-vient + prise",
  "semaine": 1,
- "updatedAt": "2026-11-27T08:16:48.549Z",
+ "updatedAt": "2026-11-27T08:16:54.768Z",
  "els": [
   {
    "id": "dcadshis",
@@ -85,8 +85,8 @@
    "id": "tejumpgs",
    "k": "comp",
    "type": "boite",
-   "cx": 880,
-   "cy": 200,
+   "cx": 460,
+   "cy": 320,
    "w": 100,
    "rot": 0,
    "label": "",
