@@ -696,7 +696,7 @@
    ]
   }
  ],
- "updatedAt": "2026-11-27T08:33:13.153Z",
+ "updatedAt": "2026-11-27T10:12:21.492Z",
  "bundledAdded": [
   "eeb_s1j1",
   "c_epi_s1",
@@ -717,5 +717,33 @@
   "tp_s4_espace2",
   "tp_s4_espace3",
   "tp_s4_espace3"
+ ],
+ "carnetInstalled": [
+  "carnet_01",
+  "carnet_02",
+  "carnet_03",
+  "carnet_04",
+  "carnet_05",
+  "carnet_06",
+  "carnet_07",
+  "carnet_08",
+  "carnet_09",
+  "carnet_10",
+  "carnet_11",
+  "carnet_12",
+  "carnet_13",
+  "carnet_14",
+  "carnet_15",
+  "carnet_16",
+  "carnet_17",
+  "carnet_18",
+  "carnet_19",
+  "carnet_20",
+  "carnet_21",
+  "carnet_22",
+  "carnet_23",
+  "carnet_24",
+  "carnet_25",
+  "carnet_26"
  ]
 }
