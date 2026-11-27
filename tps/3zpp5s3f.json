@@ -2,7 +2,7 @@
  "id": "3zpp5s3f",
  "titre": "Exemple – Va-et-vient + prise",
  "semaine": 1,
- "updatedAt": "2026-11-27T08:16:54.768Z",
+ "updatedAt": "2026-11-27T08:26:11.694Z",
  "els": [
   {
    "id": "dcadshis",
@@ -155,5 +155,54 @@
  "cart": true,
  "formateur": "DUPIN",
  "consigne": "",
- "orient": {}
+ "orient": {},
+ "binomes": [
+  [
+   "3peivxaw",
+   "368ocbqw"
+  ],
+  [
+   "fu4p2hsi",
+   "02lba9t5"
+  ],
+  [
+   "t2ffd34e",
+   "hlkx9j5w"
+  ],
+  [
+   "9c14r03q",
+   "0059pcjo"
+  ],
+  [
+   "fkbv2aoa",
+   "oddzc9v7"
+  ],
+  [
+   "y3oh8f93",
+   "bdbw7d8a"
+  ],
+  [
+   "nqqsciba",
+   "s5bas3jo"
+  ],
+  [
+   "s3dk4zyb",
+   "uxin4zqx"
+  ],
+  [
+   "568xt5xk",
+   "lyz74ymn"
+  ],
+  [
+   "hzzonox3",
+   "qoguj9ly"
+  ],
+  [
+   "wp1yz0j8",
+   "k07b6fxi",
+   "4wksj1km"
+  ]
+ ],
+ "binomesAt": "2026-11-27T08:25:51.693Z",
+ "absents": []
 }
