@@ -2,7 +2,7 @@
  "id": "sivdpzhy",
  "titre": "Lundi S4 – Volet roulant avec voyant de signalisation ",
  "semaine": 4,
- "updatedAt": "2026-11-27T09:23:28.009Z",
+ "updatedAt": "2026-11-27T09:24:44.104Z",
  "els": [
   {
    "id": "o8kjuz89",
@@ -222,6 +222,17 @@
    "w": 18.321678321678323,
    "rot": 0,
    "label": "H3",
+   "showLabel": true
+  },
+  {
+   "id": "ew80t4z0",
+   "k": "comp",
+   "type": "AUe",
+   "cx": 605,
+   "cy": 550,
+   "w": 80,
+   "rot": 0,
+   "label": "AU1",
    "showLabel": true
   }
  ],
