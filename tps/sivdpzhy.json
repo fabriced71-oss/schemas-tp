@@ -2,7 +2,7 @@
  "id": "sivdpzhy",
  "titre": "Lundi S4 – Volet roulant avec voyant de signalisation ",
  "semaine": 4,
- "updatedAt": "2026-11-27T09:51:49.058Z",
+ "updatedAt": "2026-11-27T09:52:36.780Z",
  "els": [
   {
    "id": "o8kjuz89",
@@ -256,7 +256,55 @@
  "formateur": "DUPIN",
  "consigne": "",
  "orient": {},
- "binomes": null,
- "binomesAt": null,
+ "binomes": [
+  [
+   "9c14r03q",
+   "s5bas3jo"
+  ],
+  [
+   "qoguj9ly",
+   "lyz74ymn"
+  ],
+  [
+   "wp1yz0j8",
+   "368ocbqw"
+  ],
+  [
+   "fkbv2aoa",
+   "3peivxaw"
+  ],
+  [
+   "k07b6fxi",
+   "02lba9t5"
+  ],
+  [
+   "y3oh8f93",
+   "oddzc9v7"
+  ],
+  [
+   "fu4p2hsi",
+   "hlkx9j5w"
+  ],
+  [
+   "568xt5xk",
+   "nqqsciba"
+  ],
+  [
+   "hzzonox3",
+   "t2ffd34e"
+  ],
+  [
+   "bdbw7d8a",
+   "uxin4zqx"
+  ],
+  [
+   "0059pcjo",
+   "4wksj1km"
+  ],
+  [
+   "s3dk4zyb"
+  ]
+ ],
+ "binomesAt": "2026-11-27T09:52:16.778Z",
  "absents": []
 }
