@@ -1,0 +1,366 @@
+{
+ "id": "carnet_05",
+ "titre": "Carnet 05 – Le télérupteur unipolaire",
+ "semaine": 0,
+ "updatedAt": "2026-11-27T11:59:24.364Z",
+ "els": [
+  {
+   "id": "cx0065",
+   "k": "comp",
+   "type": "I2",
+   "cx": 115,
+   "cy": 330,
+   "w": 70,
+   "rot": 0,
+   "label": "ID1",
+   "showLabel": true
+  },
+  {
+   "id": "cx0066",
+   "k": "comp",
+   "type": "D2",
+   "cx": 169,
+   "cy": 330,
+   "w": 34,
+   "rot": 0,
+   "label": "Q1",
+   "showLabel": true
+  },
+  {
+   "id": "cx0067",
+   "k": "comp",
+   "type": "TL",
+   "cx": 205,
+   "cy": 330,
+   "w": 34,
+   "rot": 0,
+   "label": "TL1",
+   "showLabel": true
+  },
+  {
+   "id": "cx0068",
+   "k": "comp",
+   "type": "boite",
+   "cx": 560,
+   "cy": 330,
+   "w": 70,
+   "rot": 0,
+   "label": "B1",
+   "showLabel": true
+  },
+  {
+   "id": "cx0069",
+   "k": "wire",
+   "color": "g20",
+   "style": "line",
+   "pts": [
+    [
+     230,
+     330
+    ],
+    [
+     525,
+     330
+    ]
+   ]
+  },
+  {
+   "id": "cx0070",
+   "k": "text",
+   "x": 238,
+   "y": 290,
+   "size": 10,
+   "bold": false,
+   "text": "Gaine ICTA – 3G1,5"
+  },
+  {
+   "id": "cx0071",
+   "k": "wire",
+   "color": "g16",
+   "style": "line",
+   "pts": [
+    [
+     548,
+     298
+    ],
+    [
+     548,
+     268
+    ],
+    [
+     720,
+     268
+    ],
+    [
+     720,
+     213
+    ]
+   ]
+  },
+  {
+   "id": "cx0072",
+   "k": "wire",
+   "color": "g16",
+   "style": "line",
+   "pts": [
+    [
+     572,
+     298
+    ],
+    [
+     572,
+     250
+    ],
+    [
+     880,
+     250
+    ],
+    [
+     880,
+     213
+    ]
+   ]
+  },
+  {
+   "id": "cx0073",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 720,
+   "cy": 165,
+   "w": 80,
+   "rot": 0,
+   "label": "L1",
+   "showLabel": true
+  },
+  {
+   "id": "cx0074",
+   "k": "comp",
+   "type": "lampe",
+   "cx": 880,
+   "cy": 165,
+   "w": 80,
+   "rot": 0,
+   "label": "L2",
+   "showLabel": true
+  },
+  {
+   "id": "cx0075",
+   "k": "wire",
+   "color": "g16",
+   "style": "line",
+   "pts": [
+    [
+     560,
+     362
+    ],
+    [
+     560,
+     400
+    ],
+    [
+     680,
+     400
+    ],
+    [
+     680,
+     497.5
+    ]
+   ]
+  },
+  {
+   "id": "cx0076",
+   "k": "wire",
+   "color": "g16",
+   "style": "line",
+   "pts": [
+    [
+     690,
+     497.5
+    ],
+    [
+     690,
+     414
+    ],
+    [
+     800,
+     414
+    ],
+    [
+     800,
+     497.5
+    ]
+   ]
+  },
+  {
+   "id": "cx0077",
+   "k": "wire",
+   "color": "g16",
+   "style": "line",
+   "pts": [
+    [
+     810,
+     497.5
+    ],
+    [
+     810,
+     414
+    ],
+    [
+     920,
+     414
+    ],
+    [
+     920,
+     497.5
+    ]
+   ]
+  },
+  {
+   "id": "cx0078",
+   "k": "comp",
+   "type": "BP",
+   "cx": 680,
+   "cy": 520,
+   "w": 55,
+   "rot": 0,
+   "label": "BP1",
+   "showLabel": true
+  },
+  {
+   "id": "cx0079",
+   "k": "comp",
+   "type": "BP",
+   "cx": 800,
+   "cy": 520,
+   "w": 55,
+   "rot": 0,
+   "label": "BP2",
+   "showLabel": true
+  },
+  {
+   "id": "cx0080",
+   "k": "comp",
+   "type": "BP",
+   "cx": 920,
+   "cy": 520,
+   "w": 55,
+   "rot": 0,
+   "label": "BP3",
+   "showLabel": true
+  },
+  {
+   "id": "cx0081",
+   "k": "text",
+   "x": 40,
+   "y": 560,
+   "size": 13,
+   "bold": true,
+   "text": "Ce que dit la norme NF C 15-100 :"
+  },
+  {
+   "id": "cx0082",
+   "k": "text",
+   "x": 40,
+   "y": 582,
+   "size": 12,
+   "bold": false,
+   "text": "• Section des conducteurs : 1,5 mm²"
+  },
+  {
+   "id": "cx0083",
+   "k": "text",
+   "x": 40,
+   "y": 602,
+   "size": 12,
+   "bold": false,
+   "text": "• Interrupteur différentiel 30 mA type AC"
+  },
+  {
+   "id": "cx0084",
+   "k": "text",
+   "x": 40,
+   "y": 622,
+   "size": 12,
+   "bold": false,
+   "text": "• Protection : disjoncteur 16 A"
+  },
+  {
+   "id": "cx0085",
+   "k": "text",
+   "x": 40,
+   "y": 642,
+   "size": 12,
+   "bold": false,
+   "text": "• Boutons poussoirs en parallèle sur la bobine du télérupteur"
+  },
+  {
+   "id": "cx0086",
+   "k": "text",
+   "x": 40,
+   "y": 700,
+   "size": 10,
+   "bold": false,
+   "text": "Conducteurs : phase rouge (ou marron/noir) · neutre bleu · PE vert/jaune · retours violet/orange."
+  }
+ ],
+ "tab": [],
+ "fond": true,
+ "tp": null,
+ "uni": [],
+ "multi": [],
+ "cart": true,
+ "formateur": "DUPIN",
+ "consigne": "",
+ "orient": {},
+ "binomes": [
+  [
+   "oddzc9v7",
+   "s5bas3jo"
+  ],
+  [
+   "nqqsciba",
+   "qoguj9ly"
+  ],
+  [
+   "lyz74ymn",
+   "k07b6fxi"
+  ],
+  [
+   "hlkx9j5w",
+   "bdbw7d8a"
+  ],
+  [
+   "568xt5xk",
+   "02lba9t5"
+  ],
+  [
+   "3peivxaw",
+   "368ocbqw"
+  ],
+  [
+   "fu4p2hsi",
+   "9c14r03q"
+  ],
+  [
+   "0059pcjo",
+   "s3dk4zyb"
+  ],
+  [
+   "fkbv2aoa",
+   "uxin4zqx"
+  ],
+  [
+   "t2ffd34e",
+   "wp1yz0j8"
+  ],
+  [
+   "y3oh8f93",
+   "hzzonox3"
+  ],
+  [
+   "4wksj1km"
+  ]
+ ],
+ "binomesAt": "2026-11-27T11:59:04.362Z",
+ "absents": []
+}
