@@ -2,7 +2,7 @@
  "id": "3zpp5s3f",
  "titre": "Exemple – Va-et-vient + prise",
  "semaine": 1,
- "updatedAt": "2026-10-22T17:38:29.049Z",
+ "updatedAt": "2026-11-27T08:16:48.549Z",
  "els": [
   {
    "id": "dcadshis",
@@ -24,17 +24,6 @@
    "w": 40,
    "rot": 0,
    "label": "D1",
-   "showLabel": true
-  },
-  {
-   "id": "vjm97ykk",
-   "k": "comp",
-   "type": "D2",
-   "cx": 225,
-   "cy": 220,
-   "w": 40,
-   "rot": 0,
-   "label": "D2",
    "showLabel": true
   },
   {
@@ -104,102 +93,6 @@
    "showLabel": false
   },
   {
-   "id": "wqm98rke",
-   "k": "wire",
-   "color": "phase",
-   "pts": [
-    [
-     190,
-     135
-    ],
-    [
-     190,
-     110
-    ],
-    [
-     340,
-     110
-    ],
-    [
-     340,
-     405
-    ],
-    [
-     440,
-     405
-    ]
-   ]
-  },
-  {
-   "id": "o7x7959m",
-   "k": "wire",
-   "color": "neutre",
-   "pts": [
-    [
-     235,
-     135
-    ],
-    [
-     235,
-     95
-    ],
-    [
-     395,
-     95
-    ],
-    [
-     520,
-     230
-    ]
-   ]
-  },
-  {
-   "id": "v325kobr",
-   "k": "wire",
-   "color": "violet",
-   "pts": [
-    [
-     445,
-     445
-    ],
-    [
-     445,
-     425
-    ],
-    [
-     650,
-     425
-    ],
-    [
-     650,
-     445
-    ]
-   ]
-  },
-  {
-   "id": "0p1wsbs3",
-   "k": "wire",
-   "color": "violet",
-   "pts": [
-    [
-     475,
-     495
-    ],
-    [
-     475,
-     520
-    ],
-    [
-     680,
-     520
-    ],
-    [
-     680,
-     495
-    ]
-   ]
-  },
-  {
    "id": "3ehsieem",
    "k": "text",
    "x": 40,
@@ -261,5 +154,6 @@
  "multi": [],
  "cart": true,
  "formateur": "DUPIN",
- "consigne": ""
+ "consigne": "",
+ "orient": {}
 }
