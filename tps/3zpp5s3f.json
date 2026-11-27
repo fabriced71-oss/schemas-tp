@@ -2,7 +2,7 @@
  "id": "3zpp5s3f",
  "titre": "Exemple – Va-et-vient + prise",
  "semaine": 1,
- "updatedAt": "2026-11-27T08:26:11.694Z",
+ "updatedAt": "2026-11-27T08:31:42.834Z",
  "els": [
   {
    "id": "dcadshis",
@@ -158,51 +158,50 @@
  "orient": {},
  "binomes": [
   [
-   "3peivxaw",
-   "368ocbqw"
+   "4wksj1km",
+   "fkbv2aoa"
   ],
   [
-   "fu4p2hsi",
-   "02lba9t5"
-  ],
-  [
-   "t2ffd34e",
-   "hlkx9j5w"
-  ],
-  [
-   "9c14r03q",
-   "0059pcjo"
-  ],
-  [
-   "fkbv2aoa",
-   "oddzc9v7"
-  ],
-  [
-   "y3oh8f93",
-   "bdbw7d8a"
-  ],
-  [
-   "nqqsciba",
-   "s5bas3jo"
-  ],
-  [
-   "s3dk4zyb",
-   "uxin4zqx"
-  ],
-  [
-   "568xt5xk",
-   "lyz74ymn"
-  ],
-  [
-   "hzzonox3",
+   "oddzc9v7",
    "qoguj9ly"
   ],
   [
-   "wp1yz0j8",
-   "k07b6fxi",
-   "4wksj1km"
+   "02lba9t5",
+   "hlkx9j5w"
+  ],
+  [
+   "y3oh8f93",
+   "fu4p2hsi"
+  ],
+  [
+   "hzzonox3",
+   "s5bas3jo"
+  ],
+  [
+   "uxin4zqx",
+   "bdbw7d8a"
+  ],
+  [
+   "lyz74ymn",
+   "3peivxaw"
+  ],
+  [
+   "568xt5xk",
+   "k07b6fxi"
+  ],
+  [
+   "0059pcjo",
+   "wp1yz0j8"
+  ],
+  [
+   "9c14r03q",
+   "s3dk4zyb"
+  ],
+  [
+   "368ocbqw",
+   "nqqsciba"
   ]
  ],
- "binomesAt": "2026-11-27T08:25:51.693Z",
+ "binomesAt": "2026-11-27T08:31:19.564Z",
  "absents": []
 }
