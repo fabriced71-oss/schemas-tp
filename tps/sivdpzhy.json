@@ -2,7 +2,7 @@
  "id": "sivdpzhy",
  "titre": "Lundi S4 – Volet roulant avec voyant de signalisation ",
  "semaine": 4,
- "updatedAt": "2026-11-27T09:47:13.986Z",
+ "updatedAt": "2026-11-27T09:47:55.726Z",
  "els": [
   {
    "id": "o8kjuz89",
@@ -239,8 +239,8 @@
  "tab": [],
  "fond": true,
  "tp": {
-  "formation": "CAP / Bac Pro MELEC",
-  "duree": "4 h",
+  "formation": "EEB180<br>",
+  "duree": "5 h",
   "date": "",
   "objectif": "<ul><li>Lire et exploiter un schéma électrique.</li><li>Réaliser le câblage d’une installation conformément au schéma et à la NF C 15-100.</li><li>Effectuer les vérifications et les essais avant la mise en service.</li></ul>",
   "situation": "<p>Dans le cadre de la rénovation d’un logement, votre responsable vous confie la réalisation de l’installation décrite par le schéma en annexe. Vous travaillez en autonomie sur la platine d’atelier.</p>",
