@@ -1,9 +1,87 @@
 {
  "id": "hmmbswpi",
- "titre": "Lundi S4 – ",
+ "titre": "Lundi S4 – contacteur jour nuit pour ECS",
  "semaine": 4,
- "updatedAt": "2026-11-27T12:24:12.336Z",
- "els": [],
+ "updatedAt": "2026-11-27T12:27:45.853Z",
+ "els": [
+  {
+   "id": "e8lshcy8",
+   "k": "comp",
+   "type": "chassis",
+   "cx": 185,
+   "cy": 395,
+   "w": 342,
+   "rot": 0,
+   "label": "CH1",
+   "showLabel": true
+  },
+  {
+   "id": "5z4qjz6j",
+   "k": "comp",
+   "type": "I2",
+   "cx": 52.44970414201184,
+   "cy": 224.95664335664338,
+   "w": 48.20010758472297,
+   "rot": 0,
+   "label": "I1",
+   "showLabel": true
+  },
+  {
+   "id": "puf6kfwq",
+   "k": "comp",
+   "type": "D2",
+   "cx": 88.59978483055406,
+   "cy": 224.95664335664338,
+   "w": 24.100053792361486,
+   "rot": 0,
+   "label": "D1",
+   "showLabel": true
+  },
+  {
+   "id": "z3b1a0d1",
+   "k": "comp",
+   "type": "KM",
+   "cx": 136.79989241527704,
+   "cy": 224.95664335664338,
+   "w": 24.100053792361486,
+   "rot": 0,
+   "label": "KM1",
+   "showLabel": true
+  },
+  {
+   "id": "h5ougium",
+   "k": "comp",
+   "type": "D2",
+   "cx": 112.69983862291555,
+   "cy": 224.95664335664338,
+   "w": 24.100053792361486,
+   "rot": 0,
+   "label": "D2",
+   "showLabel": true
+  },
+  {
+   "id": "3t5u01b8",
+   "k": "comp",
+   "type": "I2",
+   "cx": 52.44970414201184,
+   "cy": 394.76083916083917,
+   "w": 48.20010758472297,
+   "rot": 0,
+   "label": "I2",
+   "showLabel": true
+  },
+  {
+   "id": "g03oum0f",
+   "k": "comp",
+   "type": "D2",
+   "cx": 88.59978483055406,
+   "cy": 394.76083916083917,
+   "w": 24.100053792361486,
+   "rot": 0,
+   "label": "D3",
+   "showLabel": true
+  }
+ ],
  "tab": [],
  "fond": true,
  "tp": null,
